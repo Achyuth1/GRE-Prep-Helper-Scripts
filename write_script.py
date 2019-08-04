@@ -39,7 +39,7 @@ while(True):
 	else:
 		break
 
-print("======\nWORDS and MEANINGS\n======")
+print("======\nWORDS and MEANINGS - %d\n======"%len(words.keys()))
 word_list = []
 for word in sorted(words.keys()):
 	print(word + " = " + words[word])
