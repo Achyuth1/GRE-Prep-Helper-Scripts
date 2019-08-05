@@ -45,4 +45,4 @@ for word in sorted(words.keys()):
 	print(word + " = " + words[word])
 	word_list += [[word, words[word]]]
 
-np.savetxt("./words_%s.csv"%fileKey, X=np.array(word_list), fmt="%s", delimiter=",")
+np.savetxt("./csv/words_%s.csv"%fileKey, X=np.array(word_list), fmt="%s", delimiter=",")
