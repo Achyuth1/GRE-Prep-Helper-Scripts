@@ -10,3 +10,8 @@ Python3 Simple dictionary implementation to make GRE prep easier
 ## seach_script.py
 * Helpful for revision or checking meanings of certain words from particular day
 * input the date and revise
+
+## revise_script.py
+* cumulative revision script
+* keeps track of scores
+* generates report.csv which contains word, meaning, score so that low scoring words can be revised again
