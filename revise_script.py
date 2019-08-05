@@ -39,7 +39,7 @@ for word in wordsAll:
 	pickle.dump(finalGroup, open("./revise/words_all.p", "wb"))
 
 
-outStr = "word,meaning,score"
+outStr = "word,meaning,score\n"
 for word in sorted(wordsAll):
 	if finalGroup[word]["correctCount"]+finalGroup[word]["wrongCount"] == 0:
 		acc = -1
