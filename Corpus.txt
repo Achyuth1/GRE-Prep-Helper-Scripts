@@ -1,791 +1,2061 @@
-abysmal:
-extremely bad
-Ex:
-coach ramsey took his newest player off the field after watching a few painful minutes of her abysmal performance.
+aberrant:  markedly different from an accepted norm
+Ex:  when the financial director started screaming and throwing food at his co-workers, the police had to come in to deal with his aberrant behavior
 
-amply:
-more than is adequate
-Ex:
-the boat was amply supplied for its year at sea—no man would go hungry or thirsty
+aberration:  a deviation from what is normal or expected
+Ex:  aberrations in climate have become the norm: rarely a week goes by without some meteorological phenomenon making headlines
 
-analogous:
-similar in some respects otherwise different
-Ex:
-in many ways, the internet's transformative effect on society has been analogous to that of the printing press.
+aboveboard:  open and honest
+Ex:  the mayor, despite his avuncular face plastered about the city, was hardly aboveboard – some concluded that it was his ingratiating smile that allowed him to engage in corrupt behavior and get away with it
 
-antedate:
-precede in time
-Ex:
-harry was so unknowledgable that he was unaware the egyptian pharaohs antedated the american revolution.
+abstain:  choose not to consume or take part in (particularly something enjoyable)
+Ex:  considered a health nut, jessica abstained from anything containing sugar--even chocolate.
 
-antiquated:
-old fashioned; belonging to an earlier period of time
-Ex:
-aunt betty had antiquated notions about marriage, believing that a man should court a woman for at least a year before receiving a kiss
+abstruse:  difficult to understand; incomprehensible
+Ex:  physics textbooks can seem so abstruse to the uninitiated that readers feel as though they are looking at hieroglyphics
 
-aphorism:
-a short instructive saying about a general truthh
-Ex:
-nietzsche was known for using aphorisms, sometimes encapsulating a complex philosophical thought in a mere sentence
+abysmal:  extremely bad
+Ex:  coach ramsey took his newest player off the field after watching a few painful minutes of her abysmal performance.
 
-aphoristic:
-something that is concise and instructive of the general truth or principle
-Ex:
-sometimes i can't stand nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.
+accolade:  an award or praise granted as a special honor
+Ex:  jean paul-sartre was not a fan of accolades, and as such, he refused to accept the nobel prize for literature in 1964
 
-ascribe:
-attribute or credit to
-Ex:
-he ascribed jane's short temper to her upset stomach
+acerbic:  harsh in tone
+Ex:  most movie critics are acerbic towards summer blockbusters, often referring to them as garbage
 
-avert:
-1. (verb) turn away; 
+acme:  the highest point of achievement
+Ex:  the new cessna airplanes will be the acme of comfort, offering reclining seats and ample legroom
+
+acrimony:  bitterness and ill will
+Ex:  the acrimony between the president and vice-president sent a clear signal to voters: the health of the current administration was imperiled
+
+adamant:  refusing to be persuaded or to change one's mind
+Ex:  he is adamant that he is not going to resign
+
+admonish:  to warn strongly, even to the point of reprimanding
+Ex:  before the concert began, security personnel admonished the crowd not to come up on stage during the performance.
+
+admonitory:  serving to warn; expressing reproof or reproach especially as a corrective
+Ex:  at the assembly, the high school vice-principal gave the students an admonitory speech, warning them of the many risks and dangers of prom night
+
+advocate:  1. (verb) speak, plead, or argue in favor of; 
+2. (noun) a person who pleads for a cause or propounds an idea
+Ex:  1. while the senator privately approved of gay marriage, he was unwilling to advocate for the cause in a public venue; 
+2. martin luther king jr. was a tireless advocate for the rights of african-americans in the united states
+
+aesthete:  one who professes great sensitivity to the beauty of art and nature
+Ex:  a true aesthete, marty would spend hours at the guggenheim museum, staring at the same picasso
+
+aesthetic:  1. concerned with the appreciation of beauty; 
+2. a set of principles underlying and guiding the work of a particular artist or artistic movement;
+Ex:  1. the director, not known for his aesthetic sensibilities, decided not to use costumes at all, and put on the play in everyday clothing; 
+2. the artist operated according to a peculiar aesthetic, not considering any photograph to be worth publishing unless it contained a marine mammal;
+
+affable:  likeable; easy to talk to
+Ex:  for all his surface affability, marco was remarkably glum when he wasn’t around other people
+
+affluent:  wealthy
+Ex:  the center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of affluence
+
+altruism:  the quality of unselfish concern for the welfare of others
+Ex:  albert schweitzer spent most of his life doing missionary work as a doctor in africa, seeking no reward, apparently motivated only by altruism
+
+amalgam:  a mixture of multiple things
+Ex:  the band’s music was an amalgam of hip-hop, flamenco and jazz, blending the three styles with surprising results
+
+ambiguous:  open to more than one interpretation
+Ex:  the coach told his team, “move towards that side of the field”; because he did not point, his directions were ambiguous, and the team had no idea to which side he was referring
+
+ambivalent:  mixed or conflicting emotions about something
+Ex:  sam was ambivalent about studying for the exam because doing so ate up a lot of his time, yet he was able to improve his analytical skills
+
+ameliorate:  make something bad better
+Ex:  "three cups of tea" tells the story of western man who hopes to ameliorate poverty and the lack of education in afghanistan.
+
+amenable:  easily persuaded
+Ex:  even though she did not like the outdoors, shirley was generally amenable and so her brother was able to persuade her to go camping
+
+amiable:  friendly
+Ex:  amy’s name was very apt: she was so amiable that she was twice voted class president
+
+amok:  in a frenzied or uncontrolled state
+Ex:  wherever the bowl haircut teen-idol went, his legions of screaming fans ran through the streets amok, hoping for a glance at his boyish face.
+
+amorphous:  shapeless
+Ex:  his study plan for the gre was at best amorphous; he would do questions from random pages in any one of seven test prep books
+
+amply:  more than is adequate
+Ex:  the boat was amply supplied for its year at sea—no man would go hungry or thirsty
+
+analogous:  similar in some respects otherwise different
+Ex:  in many ways, the internet's transformative effect on society has been analogous to that of the printing press.
+
+animosity:  intense hostility
+Ex:  the governor’s animosity toward his rival was only inflamed when the latter spread false lies regarding the governor’s first term
+
+anomalous:  not normal
+Ex:  according to those who do not believe in climate change, the extreme weather over the last five years is simply anomalous—daily temperatures should return to their old averages, they believe
+
+anomaly:  something that is not normal, standard, or expected
+Ex:  after finding an anomaly in the data, she knew that she would have to conduct her experiment again
+
+antedate:  precede in time
+Ex:  harry was so unknowledgable that he was unaware the egyptian pharaohs antedated the american revolution.
+
+antipathy:  an intense feeling of dislike or aversion
+Ex:  maria had an antipathy for tour groups, often bolting to the other side of the museum as soon as she saw a chaperone leading a group of wide-eyed tourists
+
+antiquated:  old fashioned; belonging to an earlier period of time
+Ex:  aunt betty had antiquated notions about marriage, believing that a man should court a woman for at least a year before receiving a kiss
+
+antithetical:  sharply contrasted in character or purpose
+Ex:  his deep emotional involvement with these ideas is, in fact, antithetical to the detachment buddhism preaches.
+
+apathetic:  marked by a lack of interest
+Ex:  mr. thompson was so talented at teaching math that even normally apathetic students took interest
+
+apathy:  an absence of emotion or enthusiasm
+Ex:  widespread apathy among voters led to a very small turnout on election day.
+
+apex:  the highest point
+Ex:  the ivy league is considered the apex of the higher education system
+
+aphorism:  a short instructive saying about a general truthh
+Ex:  nietzsche was known for using aphorisms, sometimes encapsulating a complex philosophical thought in a mere sentence
+
+aphoristic:  something that is concise and instructive of the general truth or principle
+Ex:  sometimes i can't stand nathan because he tries to impress everyone by being aphoristic, but he just states the obvious.
+
+apocryphal:  being of questionable authenticity
+Ex:  the web is notorious for sandwiching apocryphal stories between actual news.
+
+appease:  pacify by acceding to the demands of
+Ex:  neville chamberlain, the british prime minister during wwii, tried to appease hitler and in doing so sent a clear message: you can walk all over us
+
+appreciable:  large enough to be noticed (usu. refers to an amount)
+Ex:  there is an appreciable difference between those who say they can get the job done and those who actually get the job done
+
+apprehension:  fearful expectation
+Ex:  test day can be one of pure apprehension, as many students worry about their test scores
+
+arbitrary:  based on a random, groundless decision
+Ex:  one of the arbitrary decrees in place during the emperor's rule is that all citizens pay him weekly homage at his palace
+
+arcane:  requiring secret or mysterious knowledge
+Ex:  most college fraternities are known for arcane rituals that those hoping to join the fraternity must learn.
+
+archaic:  so old as to appear to belong to a different period
+Ex:  hoping to sound intelligent, mary spoke in archaic english that was right out of jane austen's pride and prejudice--needless to say, she didn't have many friends
+
+arduous:  demanding considerable mental effort and skill; testing powers of endurance
+Ex:  in order to deal with the arduous cross-country journey, truck drivers often survive on a string of caffeinated drinks, staying awake for up to 30 hours at a time
+
+artful:  1. (adj) exhibiting artistic skill; 
+2. (adj) clever in a cunning way
+Ex:  1. picasso is generally considered the most artful member of the cubist movement; 
+2. bernie madoff's artful ponzi scheme stole billions of dollars from investors and is considered the largest financial fraud in u.s. history
+
+ascendancy:  the state that exists when one person or group has power over another
+Ex:  the ascendancy of the carlsbad water polo team is clear—they have a decade of championships behind them
+
+ascetic:  1. (adj) practicing self-denial; (noun) one who practices great self-denial
+Ex:  1. his ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty; 
+2. historically, ascetics like gandhi are often considered wise men partially because of their restraint
+
+ascribe:  attribute or credit to
+Ex:  he ascribed jane's short temper to her upset stomach
+
+askance:  with a look of suspicion or disapproval
+Ex:  the old couple looked askance on the teenagers seated next to them, whispering to each other, "they've got rings through their noses and purple hair!"
+
+assail:  attack in speech or writing
+Ex:  in the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed
+
+assuage:  make something intense less severe
+Ex:  her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line
+
+audacious:  willing to be bold in social situations or to take risks
+Ex:  as all of the other campers cowered in their tents, bill, armed only with a flashlight, audaciously tracked down the bear that had raided their food
+
+audacity:  aggressive boldness in social situations
+Ex:  mike was upset at the man who not only cut in front of him at the ticket counter but also had the audacity to cut in front of him at the bathroom line
+
+augment:  enlarge or increase; improve
+Ex:  ideally, the restaurant's augmented menu will expand its clientele and increase its profits.
+
+auspicious:  favorable, the opposite of sinister
+Ex:  despite an auspicious beginning, mike’s road trip became a series of mishaps, and he was soon stranded and penniless, leaning against his wrecked automobile.
+
+austere:  1. (adj) practicing self-denial; 
+2. unadorned in style or appearance; 3. harsh in manner of temperament
+Ex:  1. his lifestyle of revelry and luxurious excess could hardly be called austere; 
+2. late soviet architecture, although remaining largely austere, moved into experimental territory that employed previously unused shapes and structures; 3. the principal of my elementary school was a cold, austere woman; i could never understand why she chose to work with children
+
+autonomously:  acting independently; self-governing (of a country)
+Ex:  many of the factory workers are worried about being replaced by machines and computers that will work completely autonomously
+
+avarice:  greed (one of the seven deadly sins)
+Ex:  the spanish conquistadors were known for their avarice, plundering incan land and stealing incan gold\
+
+avaricious:  excessively greedy
+Ex:  since avaricious desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the catholic church
+
+avert:  1. (verb) turn away; 
 2. (verb) ward off or prevent
-Ex:
-1. afraid to see the aftermath of the car crash, i averted my eyes as we drove by; 
+Ex:  1. afraid to see the aftermath of the car crash, i averted my eyes as we drove by; 
 2. the struggling video game company put all of its finances into one final, desperate project to avert bankruptcy
 
-balk:
-refusing to comply
-Ex:
-the students were willing to clean up the broken glass, but when the teacher asked them to mop the entire floor, they balked, citing reasons why they needed to leave
+avid:  marked by active interest and enthusiasm
+Ex:  martin is an avid birdwatcher, often taking long hikes into remote mountains to see some rare eagle
 
-begrudge:
-1. envy someone for possessing or enjoying something; 
+badger:  to pester
+Ex:  badgered by his parents to find a job, the 30-year-old loafer instead joined a gang of itinerant musicians
+
+balk:  refusing to comply
+Ex:  the students were willing to clean up the broken glass, but when the teacher asked them to mop the entire floor, they balked, citing reasons why they needed to leave
+
+banal:  repeated too often; overfamiliar through overuse
+Ex:  the professor used such banal expression that many students in the class either fell asleep from boredom or stayed awake to complete his sentences and humor friends
+
+banality:  a trite or obvious remark
+Ex:  herbert regarded the minister's remark as a mere banality until sharon pointed out profound implications to the seemingly obvious words.
+
+banish:  expel from a community, residence, or location; drive away
+Ex:  the most difficult part of the fast was banishing thoughts of food.
+
+beatific:  blissfully happy
+Ex:  often we imagine all monks to wear the beatific smile of the buddha, but, like any of us, a monk can have a bad day and not look very happy
+
+becoming:  appropriate, and matches nicely
+Ex:  her dress was becoming and made her look even more beautiful
+
+begrudge:  1. envy someone for possessing or enjoying something; 
 2.  to give reluctantly
-Ex:
-1. sitting all alone in his room, harvey begrudged the happiness of the other children playing outside his window; 
+Ex:  1. sitting all alone in his room, harvey begrudged the happiness of the other children playing outside his window; 
 2. we never begrudge money spent on ourselves
 
-behoove:
-to be one's duty or obligation
-Ex:
-it behoves the house to assure itself that there is no conceivable alternative
+behoove:  to be one's duty or obligation
+Ex:  it behoves the house to assure itself that there is no conceivable alternative
 
-belittle:
-lessen the importance, dignity or reputation of
-Ex:
-a good teacher will never belittle his students, but will instead empower them.
+belie:  to give a false representation to; misrepresent
+Ex:  the smile on her face belies the pain she must feel after the death of her husband.
 
-besiege:
-harass as with questions or requests; cause to feel distressed or worried
-Ex:
-after discovering a priceless artifact in her backyard, jane was besieged by phone calls, emails, and reporters all trying to buy, hold or see the rare piece of history.
+belittle:  lessen the importance, dignity or reputation of
+Ex:  a good teacher will never belittle his students, but will instead empower them.
 
-besmirch:
-damage the good name and reputation of someone
-Ex:
-the prince's distasteful choice of words besmirched not only his own name but also the reputation of the entire royal family.
+bellicose:  warlike; inclined to quarrel
+Ex:  known for their bellicose ways, the spartans were once the most feared people from peloponnesus to persia
 
-boorish:
-ill-mannered and coarse or contemptible in behavior or appearance
-Ex:
-bukowski was known for being a boorish drunk and alienating close friends and family
+belligerent:  characteristic of one eager to fight
+Ex:  tom said that he was arguing the matter purely for philosophical reasons, but his belligerent tone indicated an underlying anger about the issue
 
-brusquely:
-blunt or in a direct manner
-Ex:
-not one for social pleasantries, the chief would brusquely ask his subordinates for anything he wanted, even coffee
+benign:  1. (adj) kind 
+2. (adj) (medicine) not dangerous to health; not recurrent or progressive
+Ex:  1. i remember my grandfather's face was wrinkled, benign, and calm. 
+2. the tumor located in your ear lobe seems to be benign and should not cause you any trouble.
 
-buttress:
-make stronger or defensible
-Ex:
-china's economy has been buttressed by a global demand for the electronic parts the country manufactures
+besiege:  harass as with questions or requests; cause to feel distressed or worried
+Ex:  after discovering a priceless artifact in her backyard, jane was besieged by phone calls, emails, and reporters all trying to buy, hold or see the rare piece of history.
 
-candidness:
-the quality of being honest and straightforward in attitude and speech
-Ex:
-although i was unhappy that the relationship ended, i appreciated her candidness about why she was ready to move on from the relationship
+besmirch:  damage the good name and reputation of someone
+Ex:  the prince's distasteful choice of words besmirched not only his own name but also the reputation of the entire royal family.
 
-carping:
-persistently petty and unjustified criticism
-Ex:
-what seemed like incessant nagging and carping about my behavior from my mother turned out to be wise and useful advice that has served me well.
+betray:  to reveal or make known something, usually unintentionally
+Ex:  with the gold medal at stake, the gymnast awaited his turn, his quivering lip betraying his intense emotions
 
-cavalier:
-given to haughty disregard of others
-Ex:
-percy dismissed the issue with a cavalier wave of his hand
+blatant:  without any attempt at concealment; completely obvious
+Ex:  allen was often punished in school for blatantly disrespecting teachers
 
-cerebral:
-involving intelligence rather than emotions or instinct
-Ex:
-a cerebral analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener.
+bleak:  having a depressing or gloomy outlook
+Ex:  unremitting overcast skies tend to lead people to create bleak literature and lugubrious music — compare england’s band radiohead to any band from southern california
 
-champion:
-to fight for a cause
-Ex:
-martin luther king jr. championed civil rights fiercely throughout his short life.
+bolster:  support and strengthen
+Ex:  the case for the suspect's innocence was bolstered considerably by the fact that neither fingerprints nor dna were found at the scene
 
-chivalrous:
-being attentive to women like an ideal knight
-Ex:
-medieval tales are full of stories of chivalry, in which a young knight must commit deeds of heroism to win the hand of a fair maiden
+boon:  1. (noun) a desirable state 
+2. (adj) very close and convivial
+Ex:  1. modern technology has been a boon to the travel industry; 
+2. he was a boon companion to many, and will be sadly missed.
 
-clemency:
-leniency or compassion shown towards offenders by a person or agency charged with administering justice
-Ex:
-in the final moments of the trial, during his closing speech, phillips was nearly begging the judge for clemency.
+boorish:  ill-mannered and coarse or contemptible in behavior or appearance
+Ex:  bukowski was known for being a boorish drunk and alienating close friends and family
 
-coalesce:
-fuse or cause to grow together
-Ex:
-over time, the various tribes coalesced into a single common culture with one universal language
+brazen:  unrestrained by convention or propriety
+Ex:  their large "donations" to the local police department gave the drug cartel the brazen confidence to do their business out in the open
 
-cohesive:
-well integrated; forming a united whole
-Ex:
-a well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument
+brusquely:  blunt or in a direct manner
+Ex:  not one for social pleasantries, the chief would brusquely ask his subordinates for anything he wanted, even coffee
 
-collusion:
-agreement on a secret plot
-Ex:
-many have argued that lee harvey oswald, jfk's assassin, was in collusion with other criminals; others maintain that oswald was a lone gunman
+buck:  resist
+Ex:  the profits at our firm bucked the general downturn that affected the real estate industry
 
-colossal:
-so great in size or force or extent as to elicit awe
-Ex:
-few appreciate the colossal scale of the sun: if hollow, it could contain a million earths.
+bucolic:  relating to the pleasant aspects of the country
+Ex:  the noble families of england once owned vast expanses of beautiful, bucolic land
 
-complacent:
-showing smug or uncritical satisfaction with oneself or one's achievements
-Ex:
-after the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year
+bumbling:  lacking physical movement skills, especially with the hands
+Ex:  within a week of starting, the bumbling new waiter was unceremoniously fired.
 
-complementary:
-enhancing each other's qualities (for two things or more).
-Ex:
-the head waiter was careful to tell the amateur diners that red wine was complementary with beef, each bringing out subtle taste notes in the other
+burgeon:  grow and flourish
+Ex:  china's housing market is burgeoning, but some predict that the growth is merely a bubble and will burst much like the u.s. real estate bubble of 
+2008
 
-compound:
-make more intense, stronger or more marked'
-Ex:
-her headache was compounded by the construction crew outside, which had six jackhammers going at the same time
+buttress:  make stronger or defensible
+Ex:  china's economy has been buttressed by a global demand for the electronic parts the country manufactures
 
-connive:
-taking part in immoral and unethical plots
-Ex:
-with the help of prince, the queen connived to overthrow the king
+cadaverous:  emaciated; gaunt
+Ex:  some actors take challenging roles in which they have to lose so much weight that they appear cadaverous
 
-consecrate:
-to make holy or set apart for a higher purpose
-Ex:
-at the church of notre dame in france, the new high altar was consecrated in 118
+calumny:  making of a false statement meant to injure a person’s reputation
+Ex:  a bitter struggle marked by calumny and litigation
+
+candid:  straightforward and honest
+Ex:  even with a perfect stranger, charles was always candid and would rarely hold anything back
+
+candidness:  the quality of being honest and straightforward in attitude and speech
+Ex:  although i was unhappy that the relationship ended, i appreciated her candidness about why she was ready to move on from the relationship
+
+capricious:  determined by chance or impulse or whim rather than by necessity or reason
+Ex:  nearly every month our capricious ceo had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed
+
+cardinal:  of primary importance; fundamental
+Ex:  most cultures consider gambling a cardinal sin and thus have outlawed its practice
+
+carping:  persistently petty and unjustified criticism
+Ex:  what seemed like incessant nagging and carping about my behavior from my mother turned out to be wise and useful advice that has served me well.
+
+castigate:  to reprimand harshly
+Ex:  drill sergeants are known to castigate new recruits so mercilessly that the latter often break down during their first week in training
+
+catalyst:  something that speeds up an event
+Ex:  rosa parks's refusal to give up her bus seat acted as a catalyst for the civil rights movement, setting into motion historic changes for african-americans.
+
+cavalier:  given to haughty disregard of others
+Ex:  percy dismissed the issue with a cavalier wave of his hand
+
+censor:  1. (verb) to examine and remove objectionable material 
+2. (noun) an official who censors material
+Ex:  1. every fall, high school english teachers are inundated by requests to censor their curriculum by removing the catcher in the rye and scarlet letter from their reading lists; 
+2. the censor insisted that every reference to drugs should be removed from the manuscript
+
+censure:  to express strong disapproval
+Ex:  (formal) after being caught in bed with a mistress, the mayor was quickly censured by the city council.
+
+cerebral:  involving intelligence rather than emotions or instinct
+Ex:  a cerebral analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener.
+
+champion:  to fight for a cause
+Ex:  martin luther king jr. championed civil rights fiercely throughout his short life.
+
+chastise:  to reprimand harshly
+Ex:  though chastised for eating the snacks for the party, lawrence shrugged off his mother’s harsh words, and continued to plow through jars of cookies and boxes of donuts
+
+chauvinist:  a person who believes in the superiority of their group
+Ex:  the chauvinist lives on both sides of the political spectrum, outright shunning anybody whose ideas are not consistent with his own
+
+check:  1. (verb) to limit (usually modifying the growth of something); 
+2. (noun) the condition of being held back or limited
+Ex:  1. deserted for six months, the property began to look more like a jungle and less like a residence—weeds grew unchecked in the front yard; 
+2. when government abuses are not kept in check, that government is likely to become autocratic
+
+checkered:  marked by disreputable or unfortunate happenings
+Ex:  one by one, the presidential candidates dropped out of the race, their respective checkered pasts— from embezzlement to infidelity—sabotaging their campaigns.
+
+chivalrous:  being attentive to women like an ideal knight
+Ex:  medieval tales are full of stories of chivalry, in which a young knight must commit deeds of heroism to win the hand of a fair maiden
+
+chortle:  to chuckle, laugh merrily, often in a breathy, muffled way
+Ex:  walking into the cafe, i could hear happy, chortling people and smell the rich aroma of roasted coffee beans
+
+circumscribe:  restrict or confine
+Ex:  their tour of south america was circumscribed so that they saw only popular destinations and avoided the dangerous parts of cities
+
+circumvent:  cleverly find a way out of one's duties or obligations
+Ex:  one way of circumventing the gre is to apply to a grad school that does not require gre scores.
+
+clemency:  leniency or compassion shown towards offenders by a person or agency charged with administering justice
+Ex:  in the final moments of the trial, during his closing speech, phillips was nearly begging the judge for clemency.
+
+coalesce:  fuse or cause to grow together
+Ex:  over time, the various tribes coalesced into a single common culture with one universal language
+
+cogent:  clear and persuasive
+Ex:  a cogent argument will change the minds of even the most skeptical audience
+
+cohesive:  well integrated; forming a united whole
+Ex:  a well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument
+
+collusion:  agreement on a secret plot
+Ex:  many have argued that lee harvey oswald, jfk's assassin, was in collusion with other criminals; others maintain that oswald was a lone gunman
+
+colossal:  so great in size or force or extent as to elicit awe
+Ex:  few appreciate the colossal scale of the sun: if hollow, it could contain a million earths.
+
+commendable:  worthy of high praise
+Ex:  the efforts of the firefighters running into the burning building were commendable
+
+commensurate:  to be in proportion or corresponding in degree or amount
+Ex:  the convicted felon’s life sentence was commensurate with the heinousness of his crime
+
+complacent:  showing smug or uncritical satisfaction with oneself or one's achievements
+Ex:  after the water polo team won their sixth championship, they became complacent and didn't even make it to the playoffs the next year
+
+complementary:  enhancing each other's qualities (for two things or more).
+Ex:  the head waiter was careful to tell the amateur diners that red wine was complementary with beef, each bringing out subtle taste notes in the other
+
+compound:  make more intense, stronger or more marked'
+Ex:  her headache was compounded by the construction crew outside, which had six jackhammers going at the same time
+
+concede:  1. (verb) acknowledge defeat; 
+2. (verb) admit (to a wrongdoing); 3. (verb) give over; surrender or relinquish to the physical control of another
+Ex:  1. i concede. you win!; 
+2. after a long, stern lecture from her father, olivia conceded to having broken the window.; 3. the spanish were forced to concede much of the territory they had previously conquered;
+
+conducive:  making a situation or outcome more likely to happen
+Ex:  studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult
+
+confound:  1. (verb) to cause confusion; 
+2. (verb) mistake one thing for another
+Ex:  1. though harry loved numbers, calculus confounded him.; 
+2. americans often confound sweet potatoes with yams, and refer to both vegetables by the same name.
+
+connive:  taking part in immoral and unethical plots
+Ex:  with the help of prince, the queen connived to overthrow the king
+
+consecrate:  to make holy or set apart for a higher purpose
+Ex:  at the church of notre dame in france, the new high altar was consecrated in 118
 2
 
-constraint:
-something that limits or restricts
-Ex:
-we don't have many resources, so we'll have to work with some very tight constraints.
+conspicuous:  without any attempt at concealment; completely obvious
+Ex:  american basketball players are always conspicuous when they go abroad--not only are they american, but some are over seven feet tall.
 
-conundrum:
-a difficult problem
-Ex:
-computers have helped solve some of the mathematical conundrums which have puzzled man for many centuries
+constituent:  a citizen who is represented in a government by officials for whom he or she votes
+Ex:  the mayor's constituents are no longer happy with her performance and plan to vote for another candidate in the upcoming election
 
-convivial:
-describing a lively atmosphere
-Ex:
-the wedding reception was convivial; friends who hadn't seen each other for ages drank and ate together before heading to the dance floor
+constraint:  something that limits or restricts
+Ex:  we don't have many resources, so we'll have to work with some very tight constraints.
 
-convoluted:
-highly complicated or intricate
-Ex:
-instead of solving the math problem in three simple steps, kumar used a convoluted solution requiring fifteen steps.
+construe:  interpreted in a particular way
+Ex:  the author's inability to take a side on the issue was construed by both his opponents and supporters as a sign of weakness
 
-cool:
-cool
-Ex:
-cooling
+consummate:  1. (adj) having or revealing supreme mastery or skill; 
+2. (verb) to make perfect and complete in every respect
+Ex:  1. tyler was the consummate musician: he was able to play the guitar, harmonica, and the drum at the same time 
+2. the restoration of the ancient church was only consummated after a twenty years of labor
 
-cosmopolitan:
-comprising many cultures; global in reach and outlook
-Ex:
-there are few cities in the world as diverse and cosmopolitan as new york
+contemptuous:  scornful, looking down at others with a sneering attitude
+Ex:  always on the forefront of fashion, vanessa looked contemptuously at anyone wearing dated clothing
 
-creditable:
-deserving a praise but not that amazing
-Ex:
-critics agreed the movie was creditable, but few gave it more than three out of five stars.
+contingent:  1. a gathering of persons representative of some larger group; 
+2. dependent on (usually used with upon)
+Ex:  1. a small contingent of those loyal to the king have gathered around the castle to defend it.; 
+2. whether the former world champions can win again this year is contingent upon none of its star players getting injured
 
-credulity:
-tendency to believe readily
-Ex:
-virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that santa claus didn't really exist
+contrite:  to be remorseful
+Ex:  though he stole his little sister’s licorice stick with malevolent glee, chucky soon became contrite when his sister wouldn't stop crying.
 
-cumbersome:
-difficult to handle or use esp because of the size or weight
-Ex:
-only ten years ago, being an avid reader and a traveler meant carrying a cumbersome backpack stuffed with books--these days we need only an e-reader
+contrition:  the feeling of remorse or guilt that comes from doing something bad
+Ex:  those who show contrition during their prison terms--especially when under review by a parole board--often get shortened sentences
 
-debunk:
-expose as false ideals and claims, esp while ridiculing
-Ex:
-richard dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them
+contrive:  to pull off a plan or scheme, usually through skill or trickery
+Ex:  despite a low gpa, he contrived to get into college, going so far as to write his own glowing letters of recommendation.
 
-decimation:
-destroying or killing a large part of the population
-Ex:
-the decimation after atomic bombs were dropped on hiroshima and nagasaki is incomprehensible
+conundrum:  a difficult problem
+Ex:  computers have helped solve some of the mathematical conundrums which have puzzled man for many centuries
 
-delegate:
-entrust (a task or responsibility) to another person, typically one who is less senior than oneself.
-Ex:
-since the senior manager had to go on many international business trips, she was forced to delegate many of her responsibilities to two lower-level managers.
+convivial:  describing a lively atmosphere
+Ex:  the wedding reception was convivial; friends who hadn't seen each other for ages drank and ate together before heading to the dance floor
 
-deliberate:
-think about carefully; weight the pros and cons of an issue
-Ex:
-emergency situations such as this call for immediate action and leave no room to deliberate over options
+convoluted:  highly complicated or intricate
+Ex:  instead of solving the math problem in three simple steps, kumar used a convoluted solution requiring fifteen steps.
 
-deride:
-treat or speak of with contempt
-Ex:
-he derided my singing as pathetic
+cool:  cool
+Ex:  cooling
 
-derogative:
-expressed as worthless or in negative terms
-Ex:
-never before have we seen a debate between two political candidates that was so derogative and filthy
+copious:  in abundant supply
+Ex:  in midsummer, there are copious popsicle stands at the beach; in the winter, there are none
 
-destitute:
-1. (adj) poor enough to require help; 
+cornucopia:  an abundant supply of something good
+Ex:  the international food expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof.
+
+corroborate:  to confirm or lend support to (usually an idea or claim)
+Ex:  her claim that frog populations were falling precipitously in central america was corroborated by locals, who reported that many species of frogs had seemingly vanished overnight
+
+cosmopolitan:  comprising many cultures; global in reach and outlook
+Ex:  there are few cities in the world as diverse and cosmopolitan as new york
+
+craven:  pathetically cowardly
+Ex:  though the man could have at least alerted the police, he crouched cravenly in the corner as the old woman was mugged
+
+credence:  belief in something
+Ex:  he placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money
+
+creditable:  deserving a praise but not that amazing
+Ex:  critics agreed the movie was creditable, but few gave it more than three out of five stars.
+
+credulity:  tendency to believe readily
+Ex:  virginia's wide-eyed credulity as a five-year old was replaced by suspicion after she learned that santa claus didn't really exist
+
+cryptic:  mysterious or vague, usually intentionally
+Ex:  since sarah did not want her husband to guess the christmas present she had bought him, she only answered cryptically when he would ask her questions about it
+
+culminate:  reach the highest or most decisive point
+Ex:  my arguments with the boss got worse and worse, and finally culminated in my resignation
+
+culpability:  a state of guilt
+Ex:  since john had left his banana peel at the top of the stairwell, he accepted culpability for martha's broken leg
+
+cumbersome:  difficult to handle or use esp because of the size or weight
+Ex:  only ten years ago, being an avid reader and a traveler meant carrying a cumbersome backpack stuffed with books--these days we need only an e-reader
+
+dearth:  a lack or shortage
+Ex:  i am surprised by the dearth of fast food chains; this is america and i assumed they were on every street
+
+debase:  reduce the quality or value of something
+Ex:  the third-rate script so debased the film that not even the flawless acting could save it from being a flop
+
+debunk:  expose as false ideals and claims, esp while ridiculing
+Ex:  richard dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them
+
+decimation:  destroying or killing a large part of the population
+Ex:  the decimation after atomic bombs were dropped on hiroshima and nagasaki is incomprehensible
+
+decorous:  characterized by good taste in manners and conduct
+Ex:  sally's parties are decorous affairs, and instead of the usual beer and music, there is tea and intellectual conversation.
+
+decorum:  propriety in manners and conduct
+Ex:  "you will obey the rules of decorum for this courtroom or spend the night in a jail cell," said the judge to the prosecutor
+
+deferential:  showing respect
+Ex:  if you ever have the chance to meet the president, stand up straight and be deferential
+
+degrade:  reduce in worth or character, usually verbally
+Ex:  jesse had mockingly pointed out all of nancy's faults in front of their friends, publicly degrading the poor girl
+
+delegate:  entrust (a task or responsibility) to another person, typically one who is less senior than oneself.
+Ex:  since the senior manager had to go on many international business trips, she was forced to delegate many of her responsibilities to two lower-level managers.
+
+deleterious:  harmful to living things
+Ex:  the bp oil spill in the gulf of mexico was deleterious to the fishing industry in the southern states
+
+deliberate:  think about carefully; weight the pros and cons of an issue
+Ex:  emergency situations such as this call for immediate action and leave no room to deliberate over options
+
+delineate:  describe in detail
+Ex:  after a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke.
+
+demean:  to insult; to cause someone to lose dignity or respect
+Ex:  at first the soccer players bantered back and forth, but as soon as one of the players became demeaning, calling the other's mother a water buffalo, the ref whipped out a red card
+
+demur:  to object or show reluctance
+Ex:  wallace disliked the cold, so he demurred when his friends suggested they go skiing in the alps.
+
+demure:  to be modest and shy
+Ex:  the portrait of her in a simple white blouse was sweet and demure
+
+denigrate:  charge falsely or with malicious intent; attack the good name and reputation of someone
+Ex:  count rumford denigrated the new theory of heat, demonstrating that it was wholly inadequate to explain the observations
+
+denote:  be a sign or indication of; have as a meaning
+Ex:  even if the text is not visible, the red octagon denotes "stop" to all motorists in america.
+
+deride:  treat or speak of with contempt
+Ex:  he derided my singing as pathetic
+
+derisive:  abusing vocally; expressing contempt or ridicule
+Ex:  i was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial
+
+derivative:  not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).
+Ex:  because the movies were utterly derivative of other popular movies, they did well at the box office.
+
+derive:  1. come from; be connected by a relationship of blood, for example; 
+2. reason by deduction; establish by deduction
+Ex:  1. many words in the english language are derived from latin, including the word "derive."; 
+2. from the multiple set of footprints in the living room, the investigator derived an important clue: sheila was not alone in the room at the time of the murder
+
+derogative:  expressed as worthless or in negative terms
+Ex:  never before have we seen a debate between two political candidates that was so derogative and filthy
+
+desecrate:  to willfully violate or destroy a sacred place
+Ex:  after desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness
+
+destitute:  1. (adj) poor enough to require help; 
 2. completely wanting(or lacking) usually destitute of 
-Ex:
-1. he was at first destitute, but with help of achyuth he stood back up on his legs 
+Ex:  1. he was at first destitute, but with help of achyuth he stood back up on his legs 
 2. pakistan is destitute of any economic activity
 
-devolve:
-1. (verb) pass on or delegate to another; 
+deter:  1. (verb) turn away from by persuasion; 
+2. (verb) try to prevent; show opposition to
+Ex:  1. his mother tried to deter him from joining the army, but he was too intoxicated with the idea of war to listen; 
+2. the government's primary job should involve deterring paths to war, not finding ways to start them
+
+detrimental:  (sometimes followed by "to") causing harm or injury
+Ex:  many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad.
+
+devolve:  1. (verb) pass on or delegate to another; 
 2. (verb) grow worse (usually into)
-Ex:
-1. the company was full of managrs known for devolving tasks to lower management, but never doing much work themselves.; 
+Ex:  1. the company was full of managrs known for devolving tasks to lower management, but never doing much work themselves.; 
 2. the dialogue between the two academics devolved into a downright bitter argument.
 
-differentiate:
-1. (verb) be a distinctive feature, attribute, or trait (sometimes in positive sense); 
+diabolical:  to be extremely wicked like the devil
+Ex:  the conspirators, willing to dispatch anyone who stood in their way, hatched a diabolical plan to take over the city
+
+dictatorial:  expecting unquestioning obedience; characteristic of an absolute ruler
+Ex:  the coach was dictatorial in his approach: no players could ever argue or question his approach
+
+didactic:  instructive (especially excessively)
+Ex:  tolstoy's the death of ivan ilyich is a didactic novel, instructing the reader on how to live a good life.
+
+differentiate:  1. (verb) be a distinctive feature, attribute, or trait (sometimes in positive sense); 
 2. evolve so as to lead to a new species or develop in a way most suited to the environment;
-Ex:
-1. mozart's long melodic lines differentiate his compositions from other works of late 18th century music.; 
+Ex:  1. mozart's long melodic lines differentiate his compositions from other works of late 18th century music.; 
 2. animals on madagascar differentiated from other similar animal species due to many years of isolation on the island.;
 
-dilapidated:
-in terrible condition; (of a building or object) in a state of disrepair or ruin as a result of age or neglect
-Ex:
-the main house has been restored but the gazebo is still dilapidated and unusable.
+diffident:  showing modest reserve; lacking self-confidence
+Ex:  as a young girl she was diffident and reserved, but now as an adult, she is confident and assertive
 
-diligence:
-characterized by care and perseverance in carrying out tasks
-Ex:
-michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant
+dilapidated:  in terrible condition; (of a building or object) in a state of disrepair or ruin as a result of age or neglect
+Ex:  the main house has been restored but the gazebo is still dilapidated and unusable.
 
-diligent:
-characterized by care and perseverance in carrying out tasks
-Ex:
-michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant.
+dilatory:  wasting time
+Ex:  lawyers use dilatory tactics so that it takes years before the case is actually decided
 
-discord:
-lack of agreement or harmony
-Ex:
-despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games
+dilettante:  an amateur who engages in an activity without serious intentions and who pretends to have knowledge
+Ex:  fred has no formal medical training; while he likes to claim authority on medical issues, he is little more than a dilettante
 
-discreet:
-careful to protect one's speech or actions in order to avoid offense or draw attention
-Ex:
-the professor thought that he was discreet, subtly wiping the stain off of his shirt, but as soon as he stepped off the podium a heckler in the audience burst out, "you missed a spot"
+diligence:  characterized by care and perseverance in carrying out tasks
+Ex:  michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant
 
-dispatch:
-1. (noun) the property of being efficient and prompt; 
+diligent:  characterized by care and perseverance in carrying out tasks
+Ex:  michael was a diligent gardener, never leaving a leaf on the ground and regularly watering each plant.
+
+disaffected:  discontented as toward authority
+Ex:  after watching his superior take rations from the soldiers, he quickly became disaffected and rebelled
+
+discord:  lack of agreement or harmony
+Ex:  despite all their talented players, the team was filled with discord--some players refused to talk to others--and lost most of their games
+
+discreet:  careful to protect one's speech or actions in order to avoid offense or draw attention
+Ex:  the professor thought that he was discreet, subtly wiping the stain off of his shirt, but as soon as he stepped off the podium a heckler in the audience burst out, "you missed a spot"
+
+discrete:  constituting a separate entity or part
+Ex:  what was once known as czechoslovakia has since split into two discrete, independent nations
+
+discriminate:  recognize or perceive the difference
+Ex:  sarah couldn't discriminate between a good wine and a bad wine, so she avoided wine tastings
+
+disenfranchise:  deprive of voting rights
+Ex:  the u.s. constitution disenfranchised women until 19
+20 when they were given the right to vote
+
+disheartened:  made less hopeful or enthusiastic
+Ex:  after the visiting team scored nine times, the home team's fans were disheartened, some leaving the game early
+
+disinterested:  unbiased; neutral
+Ex:  the potential juror knew the defendant, and therefore could not serve on the jury, which must consist only of disinterested members
+
+disparate:  two things are fundamentally different
+Ex:  with the advent of machines capable of looking inside the brain, fields as disparate as religion and biology have been brought together by scientists trying to understand what happens in the brain when people have a religious experience
+
+dispassionate:  unaffected by strong emotion or prejudice
+Ex:  a good scientist should be dispassionate, focusing purely on what the evidence says, without personal attachment
+
+dispatch:  1. (noun) the property of being efficient and prompt; 
 2. dispose of rapidly and without delay and efficiently
-Ex:
-1. she finished her thesis with dispatch, amazing her advisors who couldn't believe she had written 60 scholarly pages so quickly; 
+Ex:  1. she finished her thesis with dispatch, amazing her advisors who couldn't believe she had written 60 scholarly pages so quickly; 
 2. as soon as the angry peasants stormed the castle, they caught the king and swiftly dispatched him.
 
-docile:
-easily handled or managed; willing to be taught or directed or led or supervised; submissive
-Ex:
-barnyard animals are considerably more docile than the wild animals
+disseminate:  cause to become widely known
+Ex:  before the effects of anesthesia were disseminated, patients had to experience the full pain of a surgery
 
-eccentric:
-highly unconventional or unusual(usually describes a person)
-Ex:
-mozart was well-known for his eccentricities, often speaking words backward to confuse those around him.
+docile:  easily handled or managed; willing to be taught or directed or led or supervised; submissive
+Ex:  barnyard animals are considerably more docile than the wild animals
 
-eke:
-to live off meager resources, to scrape by
-Ex:
-he was able to eke out an existence on canned food
+dog:  to pursue relentlessly; to hound
+Ex:  throughout his life, he was dogged by insecurities that inhibited personal growth
 
-elude:
-(of an achievement or something desired)failed to be attained by(someone); escape understanding
-Ex:
-some physics concepts might elude newbies
+dogmatic:  highly opinionated, not accepting that one's own beliefs may not be correct
+Ex:  bryan is dogmatic in his belief that the earth is flat, claiming that all pictures of a spherical earth are computer generated
 
-embellish:
-make more beautiful or make more attractive by adding ornaments etc
-Ex:
-lennon would embellish his lyrics with poetic images and puns
+dupe:  1. (verb) to trick or swindle 
+2. (noun) a person who is easily tricked or swindled
+Ex:  1. once again a get-rich-fast internet scheme had duped harold into submitting a $5,000 check to a sham operation; 
+2. the charlatan mistook the crowd for a bunch of dupes, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them
 
-emulate:
-strive to equal or match es by imitating; compete with successfully
-Ex:
-to really become fluent in a new language, emulate the speech patterns of people who speak the language.
+duress:  compulsory force or threat
+Ex:  the witness said he signed the contract under duress and argued that the court should cancel the agreement
 
-enmity:
-a state of deep-seated ill-will
-Ex:
-the rude remark charles made toward sarah yesterday was due to his illness, not due to any real enmity toward sarah.
+eccentric:  highly unconventional or unusual(usually describes a person)
+Ex:  mozart was well-known for his eccentricities, often speaking words backward to confuse those around him.
 
-enumerate:
-1. (verb) determine the number or amount of; 
+eclectic:  comprised of a variety of styles
+Ex:  joey was known for his eclectic tastes in music, one moment dancing to disco the next "air conducting" along to beethoven's 9th symphony
+
+economical:  avoiding waste, efficient
+Ex:  journalists favor an economical style of writing, in which no unnecessary words are used and every sentence is as short as possible
+
+edifying:  enlightening or uplifting so as to encourage intellectual or moral improvement
+Ex:  i recently read an article in the times about whether good literature is edifying or not; specifically, does reading more make a person more moral.
+
+efficacious:  producing the intended result
+Ex:  since maggie's cough syrup, which had expired five years back, was no longer efficacious, she coughed through the night
+
+egotist:  a conceited and self-centered person
+Ex:  an egotist, natasha had few friends because of her inability to talk about anything except her dream of becoming the next american idol.
+
+egregious:  standing out in a negative way; shockingly bad
+Ex:  the dictator’s abuse of human rights was so egregious that many world leaders demanded that he be tried in an international court for genocide
+
+eke:  to live off meager resources, to scrape by
+Ex:  he was able to eke out an existence on canned food
+
+elaborate:  1. (adj) marked by complexity and richness of detail; 
+2. (verb) explain in more detail
+Ex:  1. thomas, on returning from morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him 
+2. most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students
+
+elicit:  call forth (emotions, feelings, and responses)
+Ex:  just smiling--even if you are depressed--can elicit feelings of pleasure and happiness
+
+elucidate:  make clearer and easier to understand
+Ex:  youtube is great place to learn just about anything--an expert elucidates finer points so that even a complete novice can learn
+
+elude:  (of an achievement or something desired)failed to be attained by(someone); escape understanding
+Ex:  some physics concepts might elude newbies
+
+elusive:  difficult to capture or difficult to remember
+Ex:  many first time skydivers say that describing the act of falling from the sky is elusive
+
+embellish:  make more beautiful or make more attractive by adding ornaments etc
+Ex:  lennon would embellish his lyrics with poetic images and puns
+
+embroiled:  involved in argument or contention
+Ex:  these days we are never short of a d.c. politician embroiled in scandal—a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one.
+
+eminent:  standing above others in quality or position
+Ex:  shakespeare is an eminent author in the english language, but i find his writing uninteresting and melodramatic
+
+empathetic:  showing understanding and ready comprehension of other peoples' states and emotions
+Ex:  most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspirations and fears
+
+emulate:  strive to equal or match es by imitating; compete with successfully
+Ex:  to really become fluent in a new language, emulate the speech patterns of people who speak the language.
+
+endemic:  native; originating where it is found
+Ex:  irish cuisine makes great use of potatoes, but ironically, the potato is not endemic to ireland
+
+enervate:  to sap energy from
+Ex:  john preferred to avoid equatorial countries; the intense sun would always leave him enervated after he’d spent the day sightseeing
+
+engender:  give rise to
+Ex:  the restrictions of the treaty of versailles were so severe that they engendered deep hatred and resentment in the german people
+
+enmity:  a state of deep-seated ill-will
+Ex:  the rude remark charles made toward sarah yesterday was due to his illness, not due to any real enmity toward sarah.
+
+entice:  get someone to do something through (often false or exaggerated) promises
+Ex:  harold enticed his wife, maude, to go on a vacation to hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets.
+
+entrenched:  fixed firmly or securely
+Ex:  by the time we reach 60-years old, most of our habits are so entrenched that it is difficult for us to change
+
+enumerate:  1. (verb) determine the number or amount of; 
 2. specify individually, one by one;
-Ex:
-1. the survey enumerates the number of happy workers and the number of unhappy workers; 
+Ex:  1. the survey enumerates the number of happy workers and the number of unhappy workers; 
 2. i sat and listened as she enumerated all of the things she did not like about the past three months.;
 
-evasive:
-1. (adj) avoiding or escaping from difficulty or danger or commitment; 
+ephemeral:  lasting a very short time
+Ex:  the lifespan of a mayfly is ephemeral, lasting from a few hours to a couple of days.
+
+equivocal:  confusing or ambiguous
+Ex:  the findings of the study were equivocal—the two researchers had different opinions on what the results signified
+
+eradicate:  to completely destroy
+Ex:  i tried eradicating the mosquitos in my apartment with a rolled up newspaper, but there were too many of them
+
+err:  to make an error
+Ex:  he erred in thinking that "indigent" and "indignant" were synonyms.
+
+errant:  to be wandering; not sticking to a circumscribed path
+Ex:  unlike his peers, who spent their hours studying in the library, matthew preferred errant walks through the university campus
+
+erratic:  unpredictable; strange and unconventional
+Ex:  it came as no surprise to pundits that the president’s attempt at re-election floundered; even during his term, support for his policies was erratic, with an approval rating jumping anywhere from 30 to 60 percent.
+
+erudite:  having or showing profound knowledge
+Ex:  before the internet, the library was typically where you would find erudite readers
+
+eschew:  avoid and stay away from deliberately; stay clear of
+Ex:  politicians are the masters of eschewing morals; academics are the masters of eschewing clarity
+
+esoteric:  nfined to and understandable by only an enlightened inner circle
+Ex:  map collecting is an esoteric hobby to most, but to geography geeks it is a highly enjoyable pastime.
+
+espouse:  to adopt or support an idea or cause
+Ex:  as a college student, charlie espoused marxism, growing his beard out and railing against the evils of the free-market
+
+euphoria:  a feeling of great (usually exaggerated) elation
+Ex:  the euphoria of winning her first gold medal in the 100 meter dash overwhelmed shelly-ann fraser and she wept tears of immense joy.
+
+evasive:  1. (adj) avoiding or escaping from difficulty or danger or commitment; 
 2. (adj) deliberately vague or ambiguous
-Ex:
-1. his responses were clearly evasive; he obviously did not want to take on any responsibility or any new work.; 
+Ex:  1. his responses were clearly evasive; he obviously did not want to take on any responsibility or any new work.; 
 2. every time i call the bank, i receive the same evasive answers about our mortgage and never get a clear response
 
-evenhanded:
-fair and impartial in treatment or judgement
-Ex:
-teachers often have trouble being evenhanded to all of their varied students
+evenhanded:  fair and impartial in treatment or judgement
+Ex:  teachers often have trouble being evenhanded to all of their varied students
 
-exasperate:
-to irritate or frustrate intensely
-Ex:
-as a child, i exasperated my mother with never ending stupid questions
+exacerbate:  make worse
+Ex:  her sleeplessness exacerbated her cold--when she woke up the next day, her sinuses were completely blocked
 
-excruciating:
-extremely painful
-Ex:
-after the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating painafter the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating pain
+exacting:  requiring and demanding accuracy
+Ex:  though his childhood piano teacher was so exacting, max is thankful now, as a professional pianist
 
-exemplify:
-1. (verb) to be a typical example of; 
+exalt:  praise or glorify
+Ex:  the teenagers exalted the rock star, covering their bedrooms with posters of him
+
+exasperate:  to irritate or frustrate intensely
+Ex:  as a child, i exasperated my mother with never ending stupid questions
+
+excruciating:  extremely painful
+Ex:  after the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating painafter the boulder rolled a couple of feet, pinning my friend's arm, he experienced excruciating pain
+
+exemplify:  1. (verb) to be a typical example of; 
 2. (verb) clarify by giving an example
-Ex:
-a dish that exemplifies french cuisine; presented are some case studies that exemplify the results
+Ex:  a dish that exemplifies french cuisine; presented are some case studies that exemplify the results
 
-fawn:
-try to gain favour by extreme flattery
-Ex:
-the media fawned over the handsome new ceo, praising his impeccable sense of style instead of asking more pointed questions
+exhort:  to strongly urge on; encourage
+Ex:  nelson’s parents exhorted him to study medicine, urging him to choose a respectable profession; intransigent, nelson left home to become a graffiti artist.
 
-finagle:
-achieve something by means of trickery or devious methods
-Ex:
-steven was able to finagle one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket.
+exonerate:  pronounce not guilty of criminal charges
+Ex:  the document clearly indicated that nick was out of the state at the time of the crime, and so served to exonerate him of any charges
 
-foible:
-a behavioral attribute that is distinctive and peculiar to one individual
-Ex:
-when their new roommate sat staring at an oak tree for an hour, marcia thought it indicated a mental problem, but jeff assured her it was a harmless foible
+expound:  add details or explanation; clarify the meaning; state in depth
+Ex:  the ceo refused to expound on the decision to merge our department with another one, and so i quit
 
-foolhardy:
-marked by defiant disregard for danger or consequences
-Ex:
-the police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is foolhardy
+extant:  still in existence (usually refers to documents)
+Ex:  despite many bookstores closing, experts predict that some form of book dealing will still be extant generations from now
 
-forthright:
-characterised by directness in manner or speech; without subtlety or evasion
-Ex:
-i did not expect the insurance agent to give us any straight answers, but i was pleasantly surprised by how forthright he was.
+extenuating:  making less guilty or more forgivable
+Ex:  the jury was hardly moved by the man’s plea that his loneliness was an extenuating factor in his crime of dognapping a prized pooch
 
-futile:
-producing no result or effect; unproductive of success
-Ex:
-i thought i could repair the car myself, but after two days of work with no success, i have to admit that my efforts were futile.
+facetious:  cleverly amusing in tone
+Ex:  facetious behavior will not be tolerated during sex education class; it's time for all of you to treat these matters like mature adults
 
-glean:
-collect information bit by bit, often with difficulty
-Ex:
-herb has given us no formal statement about his background, but from various hints, i have gleaned that he grew up in difficult circumstances
+fallacious:  of a belief that is based on faulty reasoning
+Ex:  the widespread belief that eskimos have forty different words for snow is fallacious, based on one false report.
 
-goad:
-(verb) provoke or annoy someone so as to stimulate an action or reaction
-Ex:
-he was trying to goad her into a fight
+fastidious:  overly concerned with details; fussy
+Ex:  whitney is fastidious about her shoes, arranging them on a shelf in a specific order, each pair evenly spaced
 
-hamper:
-prevent the progress or free movement of
-Ex:
-as the rain water began to collect in pools on the highway, it began to hamper the flow of traffic.
+fawn:  try to gain favour by extreme flattery
+Ex:  the media fawned over the handsome new ceo, praising his impeccable sense of style instead of asking more pointed questions
 
-hot:
-hottie
-Ex:
-gottie
+ferret:  to search for something persistently
+Ex:  ever the resourceful lexicographer, fenton was able to ferret out the word origin of highly obscure words
 
-humdrum:
-dull and lacking excitement; boringly monotonous
-Ex:
-having grown up in a humdrum suburb, jacob relished life in new york city after moving
+fete:  to celebrate a person
+Ex:  after world war ii, war heroes were feted at first but quickly forgotten.
 
-impending:
-close in time; about to occur
-Ex:
-the impending doom of our world has been discussed and debated for 
+fickle:  liable to sudden unpredictable change, esp. in affections or attachments
+Ex:  she was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it.
+
+finagle:  achieve something by means of trickery or devious methods
+Ex:  steven was able to finagle one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket.
+
+fledgling:  1. (adj) young and inexperienced 
+2. (noun) any new participant in some activity
+Ex:  murray has years of experience in family practice, but he is just a fledgling in surgery
+
+fleece:  to deceive
+Ex:  many people have been fleeced by internet scams and never received their money back
+
+flounder:  behave awkwardly; have difficulties
+Ex:  sylvia has excelled at advanced calculus, but ironically, when she has to deal with taxes, she flounders
+
+flush:  to be in abundance
+Ex:  the exam's passage is flush with difficult words, words that you may have learned only yesterday
+
+flux:  a state of uncertainty about what should be done (usually following some important event
+Ex:  ever since elvira resigned as the head of marketing, everything about our sales strategy has been in a state of flux
+
+foible:  a behavioral attribute that is distinctive and peculiar to one individual
+Ex:  when their new roommate sat staring at an oak tree for an hour, marcia thought it indicated a mental problem, but jeff assured her it was a harmless foible
+
+foment:  try to stir up public opinion
+Ex:  after having his pay cut, phil spread vicious rumors about his boss, hoping to foment a general feeling of discontent
+
+foolhardy:  marked by defiant disregard for danger or consequences
+Ex:  the police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is foolhardy
+
+forlorn:  marked by or showing hopelessness
+Ex:  after her third pet dog died, marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy.
+
+forthcoming:  1. (adj) available when required or as promised; 
+2. (adj) at ease in talking to others
+Ex:  1. the president announced that the senators were about to reach a compromise, and that he was eager to read the forthcoming details of the bill. 
+2. as a husband, larry was not forthcoming: if jill didn't demand to know details, larry would never share them with her.
+
+forthright:  characterised by directness in manner or speech; without subtlety or evasion
+Ex:  i did not expect the insurance agent to give us any straight answers, but i was pleasantly surprised by how forthright he was.
+
+fortuitous:  occurring by happy chance; having no cause or apparent cause
+Ex:  though maria's neighbor ernie "bumped into" her at the farmer's market, the encounter wasn't nearly as fortuitous as maria was led to believe: ernie desperately wanted to ask maria out on a date and had been following her about town.
+
+frivolous:  not serious in content or attitude or behavior
+Ex:  compared to juliet's passionate concern for human rights, jake's non-stop concern about football seems somewhat frivolous
+
+frugal:  not spending much money (but spending wisely)
+Ex:  monte was no miser, but was simply frugal, wisely spending the little that he earned.
+
+frustrate:  hinder or prevent (the efforts, plans, or desires) of
+Ex:  i thought i would finish writing the paper by lunchtime, but a number of urgent interruptions served to frustrate my plan
+
+furtive:  marked by quiet and caution and secrecy; taking pains to avoid being observed
+Ex:  while at work, george and his boss regina felt the need to be as furtive as possible about their romantic relationship
+
+futile:  producing no result or effect; unproductive of success
+Ex:  i thought i could repair the car myself, but after two days of work with no success, i have to admit that my efforts were futile.
+
+gainsay:  deny or contradict; speak against or oppose
+Ex:  i can't gainsay a single piece of evidence james has presented, but i still don't trust his conclusion.
+
+gall:  1. (noun) the trait of being rude and impertinent 
+2. (noun) feeling of deep and bitter anger and ill-will
+Ex:  1. the speeding car had the gall to switch five lanes at once, run through a red light, and then cut off a police car before finally coming to a stop in front of a sea of flashing red lights; 
+2. in an act of gall, leah sent compromising photos of her ex-boyfriend to all his co-workers and professional contacts
+
+galvanize:  to excite or inspire (someone) to action
+Ex:  at mile 
+23 of his first marathon, kyle had all but given up, until he noticed his friends and family holding a banner that read, “go kyle”; galvanized, he broke into a gallop, finishing the last three miles in less than 
+20 minutes.
+
+garrulous:  full of trivial conversation
+Ex:  lynne was garrulous: once, she had a fifteen minute conversation with a stranger before she realized the woman didn't speak english.
+
+gauche:  lacking social polish
+Ex:  sylvester says the most gauche things, such as telling a girl he liked that she was much prettier when she wore makeup
+
+genial:  agreeable, conducive to comfort
+Ex:  betty is a genial young woman: everyone she meets is put at ease by her elegance and grace
+
+genteel:  marked by refinement in taste and manners
+Ex:  a live string quartet would provide a more genteel air to the wedding than would a folk singer
+
+germane:  relevant and appropriate
+Ex:  the professor wanted to tell the jury in detail about his new book, but the lawyer said it wasn't germane to the charges in the cases
+
+glean:  collect information bit by bit, often with difficulty
+Ex:  herb has given us no formal statement about his background, but from various hints, i have gleaned that he grew up in difficult circumstances
+
+glib:  (of a person) speaking with ease but without sincerity
+Ex:  i have found that the more glib the salesman, the worse the product
+
+glut:  1. (noun) an excessive supply; 
+2. (verb) supply with an excess of;
+Ex:  1. the internet offers such a glut of news related stories that many find it difficult to know which story to read first.; 
+2. in the middle of economic crises, hiring managers find their inboxes glutted with resumes
+
+goad:  (verb) provoke or annoy someone so as to stimulate an action or reaction
+Ex:  he was trying to goad her into a fight
+
+gossamer:  characterized by unusual lightness and delicacy
+Ex:  the gossamer wings of a butterfly, which allow it to fly, are also a curse, so delicate that they are often damaged
+
+gregarious:  to be likely to socialize with others
+Ex:  often we think that great leaders are those who are gregarious, always in the middle of a large group of people; yet, as mahatma gandhi and many others have shown us, leaders can also be introverted
+
+grovel:  show submission or fear
+Ex:  every time susan comes to the office, frank grovels as if she were about to fire him
+
+guffaw:  laugh boisterously
+Ex:  whenever the jester fell to the ground in mock pain, the king guffawed, exposing his yellow, fang-like teeth
+
+guileless:  free of deceit
+Ex:  at first i thought my niece was guileless, but i then found myself buying her ice cream every time we passed a shop
+
+hackneyed:  lacking significance through having been overused
+Ex:  cheryl rolled her eyes when she heard the lecturer's hackneyed advice to "be true to yourself."
+
+hamper:  prevent the progress or free movement of
+Ex:  as the rain water began to collect in pools on the highway, it began to hamper the flow of traffic.
+
+hamstrung:  made ineffective or powerless
+Ex:  the fbi has made so many restrictions on the local police that they are absolutely hamstrung, unable to accomplish anything
+
+haphazard:  marked by great carelessness; dependent upon or characterized by chance
+Ex:  many golf courses are designed with great care, but the greens on the county golf course seem entirely haphazard
+
+harangue:  1. (noun) a long pompous speech; a tirade; 
+2. (adj) to deliver a long pompous speech or tirade
+Ex:  1. dinner at billy's was more a punishment than a reward, since anyone who sat at the dinner table would have to listen to billy's father's interminable harangues against the government; 
+2. tired of his parents haranguing him about his laziness and lack of initiative, tyler finally moved out of home at the age of thirty-five
+
+harried:  troubled persistently especially with petty annoyances
+Ex:  with a team of new hires to train, martha was constantly harried with little questions and could not focus on her projects
+
+haughty:  having or showing arrogant superiority to and disdain of those one views as unworthy
+Ex:  the haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own
+
+hegemony:  dominance over a certain area
+Ex:  until the spanish armada was defeated in 1587, spain had hegemony over the seas, controlling waters stretching as far as the americas
+
+heretic:  a person who holds unorthodox opinions in any field (not merely religion)
+Ex:  though everybody at the gym told mikey to do cardio before weights, mikey was a heretic and always did the reverse.
+
+heyday:  the pinnacle or top of a time period or career
+Ex:  during the heyday of prohibition, bootlegging had become such a lucrative business that many who had been opposed to the 18th amendment began to fear it would be repealed
+
+hodgepodge:  a confusing mixture or jumble
+Ex:  those in attendance represented a hodgepodge of the city's denizens: chimney sweepers could be seen sitting elbow to elbow with stockbrokers
+
+hot:  hottie
+Ex:  gottie
+
+hound:  to pursue relentlessly
+Ex:  an implacable foe of corruption, eliot ness hounded out graft in all forms—he even helped nab al capone
+
+humdrum:  dull and lacking excitement; boringly monotonous
+Ex:  having grown up in a humdrum suburb, jacob relished life in new york city after moving
+
+iconoclast:  somebody who attacks cherished beliefs or institutions
+Ex:  lady gaga, in challenging what it means to be clothed, is an iconoclast for wearing a "meat dress" to a prominent awards show
+
+iconoclastic:  defying tradition or convention
+Ex:  jackson pollock was an iconoclastic artist, totally breaking with tradition by splashing paint on a blank canvas
+
+idiosyncrasy:  a behavioral attribute that is distinctive and peculiar to an individual
+Ex:  peggy's numerous idiosyncrasies include wearing mismatched shoes, laughing loudly to herself, and owning a pet aardvark.
+
+ignoble:  dishonorable
+Ex:  in 1919, the world series was rigged--an ignoble act which baseball took decades to recover from.
+
+ignominious:  (used of conduct or character) deserving or bringing disgrace or shame
+Ex:  since the politician preached ethics and morality, his texting of revealing photographs was ignominious, bringing shame on both himself and his party
+
+illicit:  contrary to or forbidden by law
+Ex:  though al capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense
+
+immaterial:  not relevant
+Ex:  the judge found the defendant’s comments immaterial to the trial, and summarily dismissed him from the witness stand
+
+immutable:  not able to be changed
+Ex:  taxes are one of the immutable laws of the land, so there is no use arguing about paying them
+
+impartial:  free from undue bias or preconceived opinions
+Ex:  the judge was not impartial since he had been bribed by the witness's family.
+
+impeccable:  without fault or error
+Ex:  he was impeccably dressed in the latest fashion without a single crease or stain.
+
+impede:  be a hindrance or obstacle to
+Ex:  since the police sergeant had to train the pair of new hires, progress in his own case was impeded.
+
+impending:  close in time; about to occur
+Ex:  the impending doom of our world has been discussed and debated for 
 2000 years—maybe even longer
 
-implicate:
-1. convey a meaning; imply; 
+impermeable:  does not allow fluids to pass through
+Ex:  the sand bags placed on the river formed an impermeable barrier, protecting the town from flooding
+
+impertinent:  being disrespectful; improperly forward or bold
+Ex:  dexter, distraught over losing his pet dachshund, madeline, found the police officer’s questions impertinent—after all, he thought, did she have to pry into such details as to what madeline’s favorite snack was?
+
+implacable:  incapable of making less angry or hostile
+Ex:  win or lose, the coach was always implacable, never giving the athletes an easy practice or a break
+
+implausible:  describing a statement that is not believable
+Ex:  the teacher found it implausible that the student was late to school because he had been kidnapped by outlaws on horseback
+
+implicate:  1. convey a meaning; imply; 
 2. to indicate in wrongdoing usually a crime
-Ex:
-1. by saying that some of the guests were uncomfortable, the manager implicated to the hotel staff that it needed to be more diligent; 
+Ex:  1. by saying that some of the guests were uncomfortable, the manager implicated to the hotel staff that it needed to be more diligent; 
 2. the crime boss was implicated for a long list of crimes, ranging from murder to disturbing the peace.
 
-impregnable:
-immune to attack; incapable of being tampered with
-Ex:
-as a child, amy would build pillow castles and pretend they were impregnable fortresses
+imponderable:  impossible to estimate or figure out
+Ex:  according to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task
 
-inarticulate:
-without or deprived of use of speech or words
-Ex:
-although a brilliant economist, professor black was completely inarticulate, a terrible lecturer.
+impregnable:  immune to attack; incapable of being tampered with
+Ex:  as a child, amy would build pillow castles and pretend they were impregnable fortresses
 
-incense:
-make furious
-Ex:
-when herb bought football tickets for a game on the day of their wedding anniversary, jill was incensed.
+imprudent:  not wise
+Ex:  hitler, like napoleon, made the imprudent move of invading russia in winter, suffering even more casualties than napoleon had
 
-incumbent:
-necessary(for someone) as a duty or responsibility
-Ex:
-the real responsibility for the financial well-being of the corporation is ultimately incumbent on the ceo.
+impudent:  improperly forward or bold
+Ex:  in an impudent move, the defendant spoke out of order to say terribly insulting things to the judge
 
-industrious:
-characterized by hardwork and perseverance
-Ex:
-pete was an industrious student, completing every assignment thoroughly and on time
+inadvertent:  happening by chance or unexpectedly or unintentionally
+Ex:  although prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the u.s. led to its repeal
 
-inkling:
-a slight suggestion or a vague understanding
-Ex:
-lynne speaks four romance languages, but she doesn't have an inkling about how east asian languages are structured
+inarticulate:  without or deprived of use of speech or words
+Ex:  although a brilliant economist, professor black was completely inarticulate, a terrible lecturer.
 
-insipid:
-dull and uninteresting; lacking flavour; weak or tasteless
-Ex:
-1. the movie director was known for hiring beautiful actors in order to deflect attention away from the insipid scripts he would typically use; 
+incense:  make furious
+Ex:  when herb bought football tickets for a game on the day of their wedding anniversary, jill was incensed.
+
+incessant:  uninterrupted in time and indefinitely long continuing
+Ex:  i don't mind small children in brief doses, but i think the incessant exposure that their parents have to them would quickly wear me down
+
+incisive:  having or demonstrating ability to recognize or draw fine distinctions
+Ex:  the lawyer had an incisive mind, able in a flash to dissect a hopelessly tangled issue and isolate the essential laws at play
+
+inclement:  1. (adj) (of weather) unpleasant, stormy 
+2. (adj) used of persons or behavior; showing no mercy
+Ex:  1. after a week of inclement weather, we finally are able to go outside and enjoy the sun; 
+2. marcus aurelius, though a fair man, was inclement to christians during his reign, persecuting them violently
+
+incongruous:  lacking in harmony or compatibility or appropriateness
+Ex:  the vast economic inequality of modern society is incongruous with america's ideals
+
+incorrigible:  impervious to correction by punishment
+Ex:  tom sawyer seems like an incorrigible youth until huck finn enters the novel; even sawyer can't match his fierce individual spirit
+
+incumbent:  necessary(for someone) as a duty or responsibility
+Ex:  the real responsibility for the financial well-being of the corporation is ultimately incumbent on the ceo.
+
+indecorous:  not in keeping with accepted standards of what is right or proper in polite society
+Ex:  eating with elbows on the table is considered indecorous in refined circles
+
+indict:  to formally charge or accuse of wrong-doing
+Ex:  the bankrobber was indicted on several major charges, including possession of a firearm
+
+indifference:  the trait of seeming not to care
+Ex:  in an effort to fight indifference, the president of the college introduced a new, stricter grading system
+
+indigenous:  originating in a certain area
+Ex:  the plants and animals indigenous to australia are notably different from those indigenous to the u.s—one look at a duckbill platypus and you know you’re not dealing with an opossum
+
+indignant:  feeling anger over a perceived injustice
+Ex:  when the cyclist swerved into traffic, it forced the driver to brake and elicited an indignant shout of "hey, punk, watch where you're going!"
+
+industrious:  characterized by hardwork and perseverance
+Ex:  pete was an industrious student, completing every assignment thoroughly and on time
+
+inexorable:  impossible to stop or prevent
+Ex:  the rise of the computer was an inexorable shift in technology and culture.
+
+inflammatory:  extremely controversial, incendiary
+Ex:  it only takes one person to leave an inflammatory comment on an internet thread for that thread to blow up into pages upon pages of reader indignation
+
+ingenuity:  the power of creative imagination
+Ex:  daedalus was famous for his ingenuity; he was able to fashion his son icarus with a pair of wings, using wax to hold them together.
+
+ingenuous:  to be naïve and innocent
+Ex:  two-years in manhattan had changed jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fall for any ruse, regardless of how elaborate.
+
+ingratiate:  gain favor with somebody by deliberate efforts
+Ex:  even though tom didn't like his new boss, he decided to ingratiate himself to her in order to advance his career
+
+inimical:  hostile (usually describes conditions or environments)
+Ex:  venus, with a surface temperature that would turn rubber to liquid, is inimical to any form of life.
+
+inkling:  a slight suggestion or a vague understanding
+Ex:  lynne speaks four romance languages, but she doesn't have an inkling about how east asian languages are structured
+
+innocuous:  harmless and doesn’t produce any ill effects
+Ex:  everyone found nancy’s banter innocuous—except for mike, who felt like she was intentionally picking on him
+
+inscrutable:  not easily understood; unfathomable
+Ex:  his speech was so dense and confusing that many in the audience found it inscrutable
+
+insidious:  working in a subtle but destructive way
+Ex:  plaque is insidious: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems
+
+insipid:  dull and uninteresting; lacking flavour; weak or tasteless
+Ex:  1. the movie director was known for hiring beautiful actors in order to deflect attention away from the insipid scripts he would typically use; 
 2. mugs of insipid coffee
 
-intermittent:
-starting and stopping at irregular intervals
-Ex:
-intermittent rain
+insolent:  rude and arrogant
+Ex:  lilian could not help herself from being insolent, commenting that the queen's shoes were showing too much toe
 
-irascible:
-having or showing a tendency to be easily angered
-Ex:
-if arthur's dog is not fed adequately, he becomes highly irascible, even growling at his own shadow
+insolvent:  unable to pay one's bills; bankrupt
+Ex:  with credit card bills skyrocketing, a shockingly large number of americans are truly insolvent
 
-irk:
-irritate or annoy or vex
-Ex:
-my little sister irks me like no one
+intermittent:  starting and stopping at irregular intervals
+Ex:  intermittent rain
 
-laborious:
-chartacterized by effort to the point of exhaustion; esp physical effort
-Ex:
-the most laborious job i've had was working 
+intimate:  to suggest something subtly
+Ex:  at first manfred’s teachers intimated to his parents that he was not suited to skip a grade; when his parents protested, teachers explicitly told them that, notwithstanding the boy’s precocity, he was simply too immature to jump to the 6th grade
+
+intransigent:  unwilling to change one's beliefs or course of action
+Ex:  despite many calls for mercy, the judge remained intransigent, citing strict legal precedence
+
+intrepid:  fearless
+Ex:  captain ahab was an intrepid captain whose reckless and fearless style ultimately lead to his downfall
+
+inundate:  to flood or overwhelm
+Ex:  the newsroom was inundated with false reports that only made it more difficult for the newscasters to provide an objective account of the bank robbery
+
+inveterate:  habitual
+Ex:  he is an inveterate smoker and has told his family and friends that there is no way he will ever quit
+
+involved:  complicated, and difficult to comprehend
+Ex:  the physics lecture became so involved that the undergraduate’s eyes glazed over
+
+irascible:  having or showing a tendency to be easily angered
+Ex:  if arthur's dog is not fed adequately, he becomes highly irascible, even growling at his own shadow
+
+irk:  irritate or annoy or vex
+Ex:  my little sister irks me like no one
+
+irresolute:  uncertain how to act or proceed
+Ex:  he stood irresolute at the split in the trail, not sure which route would lead back to the camp.
+
+irrevocable:  incapable of being retracted or revoked
+Ex:  once you enter your plea to the court, it is irrevocable so think carefully about what you will say
+
+itinerant:  traveling from place to place to work
+Ex:  doctors used to be itinerant, traveling between patients' homes
+
+jargon:  a characteristic language of a particular group
+Ex:  to those with little training in medicine, the jargon of doctors can be very difficult to understand
+
+jingoism:  fanatical patriotism
+Ex:  north korea maintains intense control over its population through a combination of jingoism and cult of personality
+
+jocular:  characterized by jokes and good humor
+Ex:  my uncle was always in a jocular mood at family gatherings, messing up people's hair and telling knock-knock jokes to anyone who would listen.
+
+jovial:  full of or showing high-spirited merriment
+Ex:  the presidential candidate and her supporters were jovial once it was clear that she had won.
+
+jubilant:  full of high-spirited delight because of triumph or success
+Ex:  my hardwork paid off, and i was jubilant to receive a perfect score on the gre
+
+junta:  an aggressive takeover by a group (usually military); the group that executes such a takeover
+Ex:  as dangerous of a threat as north korea is, some analysts believe that were a junta suddenly to gain power, it could be even more unpredictable and bellicose than the current leadership
+
+juxtapose:  place side by side for contrast
+Ex:  the appeal of her paintings comes from a classical style which is juxtaposed with modern themes
+
+laborious:  chartacterized by effort to the point of exhaustion; esp physical effort
+Ex:  the most laborious job i've had was working 
 20 hours a day as a fisherman in king salmon, alaska.
 
-leery:
-openly distrustful and unwilling to confide
-Ex:
-without checking his references and talking to previous employers, i am leery of hiring the candidate
+laconic:   (describes a person, speech, or style of writing) using very few words
+Ex:  while martha always swooned over the hunky, laconic types in romantic comedies, her boyfriends inevitably were very talkative—and not very hunky.
 
-lethargic:
-lacking energy or enthusiasm
-Ex:
-nothing can make a person more lethargic than a big turkey dinner
+lambast:  criticize severely or angrily
+Ex:  showing no patience, the manager utterly lambasted the sales team that lost the big account.
 
-malevolent:
-wishing or appearing to wish evil for others; arising from the intense ill-will or hatred
-Ex:
-villains are known for their malevolent nature, oftentimes inflicting cruelty on others just for enjoyment
+languid:  not inclined towards physical exertion or effort; slow and relaxed
+Ex:  as the sun beat down and the temperature climbed higher, we spent a languid week lying around the house
 
-malodorous:
-having an unpleasant smell
-Ex:
-some thermally active fountains spew sulfur fumes--the air around them is sometimes so malodorous that many have to plug their noses
+largess:  extreme generosity and giving
+Ex:  uncle frank was known for his largess, so his nephew was sad when he did not receive a present for his birthday.
 
-maxim:
-a short saying expressing a general truth
-Ex:
-the maxim that actions speak louder than words
+lassitude:  extreme tiredness, either mental or physical
+Ex:  upon finishing a 6-hour standardized exam, dahlia emerged from the testing center overcome by lassitude.
 
-melancholy:
-a deep long lasting sadness
-Ex:
-hamlet is a figure of tremendous melancholy: he doesn't have a truly cheerful scene throughout the entire play
+laudable:  worthy of high praise
+Ex:  to say that gandhi's actions were laudable is the greatest understatement; he overthrew an empire without violence
 
-miscreant:
-a person who breaks the law
-Ex:
-"come back you miscreant!" yelled the woman who just had her purse stolen.
+leery:  openly distrustful and unwilling to confide
+Ex:  without checking his references and talking to previous employers, i am leery of hiring the candidate
 
-misogynist:
-a person who dislikes women in particular
-Ex:
-many have accused hemingway of being a quiet misogynist, but recently unearthed letters argue against this belief
+lethargic:  lacking energy or enthusiasm
+Ex:  nothing can make a person more lethargic than a big turkey dinner
 
-morph:
-to undergo dramatic change in a seamless and barely noticeable fashion
-Ex:
-the earnestness of the daytime talk shows of the 1970's has morphed into something far more sensational and vulgar: today guests actually stand up and threaten to take swings at one another.
+lionize:  assign great social importance to
+Ex:  students in the u.s. learn to lionize jefferson, franklin, and washington because they are the founding fathers of the nation
 
-obliging:
-showing a cheerful willingness to do favors for others
-Ex:
-even after all his success, i found him to be accommodating and obliging, sharing with me his "secret tips" on how to gain wealth and make friends.
+lucid:  (of language) transparently clear; easily understandable
+Ex:  though walters writes about physics and time travel, his writing is always lucid, so readers with little scientific training can understand difficult concepts
 
-obstinate:
-stubbornly persistent; stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so
-Ex:
-her obstinate determination to work in a radio
+macabre:  suggesting the horror of death and decay; gruesome
+Ex:  edgar allen poe was considered the master of the macabre; his stories vividly describe the moment leading up to—and often those moments after—a grisly death
 
-paradoxical:
-seemingly contradictory but nonetheless possibly true
-Ex:
-that light could be both a particle and a wave seems paradoxical, but nonetheless, it is true
+magnanimous:  noble and generous in spirit, especially towards a rival or someone less powerful
+Ex:  he was a great sportsman: in defeat he was complimentary and in victory he was magnanimous
 
-pastoral:
-relating to the countryside in a pleasant sense
-Ex:
-those who imagine america's countryside as a pastoral region are often disappointed to learn that much of rural u.s. is filled with cornfields extending as far as the eye can see.
+maintain:  to assert
+Ex:  the scientist maintained that the extinction of dinosaurs was most likely brought about by a drastic change in climate
 
-peevish:
-easily irritated or annoyed
-Ex:
-our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits
+maladroit:  clumsy
+Ex:  as a child she was quite maladroit, but as an adult, she has become an adept dancer.
 
-perquisite:
-a right reserved exclusively by a particular group or person (esp a hereditary or official right)
-Ex:
-even as the dishwasher at the french restaurant, josh quickly learned that he had the perquisite of being able to eat terrific food for half the price diners would pay
+malady:  a disease or sickness
+Ex:  the town was struck by a malady throughout the winter that left most people sick in bed for two weeks
 
-perturb:
-disturb in mind or cause to be worried or alarmed
-Ex:
-he no longer lets the little trivialities perturb him
+malevolent:  wishing or appearing to wish evil for others; arising from the intense ill-will or hatred
+Ex:  villains are known for their malevolent nature, oftentimes inflicting cruelty on others just for enjoyment
 
-piquant:
-having a pleasantly pungent taste or appetising flavour
-Ex:
-the chef, with a mere flick of the salt shaker, turned the bland tomato soup into a piquant meal.
+malleable:  easily influenced
+Ex:  my little brother is so malleable that i can convince him to sneak cookies from the cupboard for me
 
-placid:
-not easily irritated
-Ex:
-doug is normally placid, so we were all shocked to see him yelling at the television when the mets lost the game.
+malodorous:  having an unpleasant smell
+Ex:  some thermally active fountains spew sulfur fumes--the air around them is sometimes so malodorous that many have to plug their noses
 
-ploy:
-a clever plan to turn a situation  to one's advantage
-Ex:
-dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting mary completely by chance at the wedding reception.
+martial:  suggesting war or military life
+Ex:  americans tend to remember abraham lincoln as kindly and wise, not at all martial, despite the fact that he was involved in the fiercest war america has even fought
 
-precarious:
-fraught with danger
-Ex:
-people smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more precarious than either mountain-climbing or skydiving
+maverick:  someone who exhibits great independence in thought and action
+Ex:  officer kelly was a maverick, rarely following police protocols or adopting the conventions for speech common among his fellow officers
 
-preempt:
-take the place of or have precedence over
-Ex:
-a governmental warning about an imminent terrorist attack would preempt ordinary network programming on television
+mawkish:  overly sentimental to the point that it is disgusting
+Ex:  the film was incredibly mawkish, introducing highly likeable characters only to have them succumb to a devastating illness by the end of the movie
 
-presumption:
-1. an assumption that is taken for granted; 
+maxim:  a short saying expressing a general truth
+Ex:  the maxim that actions speak louder than words
+
+meander:  to wander aimlessly
+Ex:  a casual observer might have thought that peter was meandering through the city, but that day he was actually seeking out those places where he and his long lost love had once visited.
+
+melancholy:  a deep long lasting sadness
+Ex:  hamlet is a figure of tremendous melancholy: he doesn't have a truly cheerful scene throughout the entire play
+
+melee:  a wild, confusing fight or struggle
+Ex:  after enduring daily taunts about my name, i became enraged and pummeled the schoolyard bully and his sycophantic friends in a brutal melee.
+
+mendacity:  the tendency to be untruthful
+Ex:  i can forgive her for her mendacity but only because she is a child and is seeing what she can get away with.
+
+mercurial:  (of a person) prone to unexpected and unpredictable changes in mood
+Ex:  the fact that ella’s moods were as mercurial as the weather was problematic for her relationships—it didn’t help that she lived in chicago.
+
+mesmerize:  to spellbind or enthrall
+Ex:  the plot and the characters were so well developed that many viewers were mesmerized, unable to move their eyes from the screen for even a single second
+
+meticulous:  marked by extreme care in treatment of details
+Ex:  the japanese noodle maker was meticulous in making his noodles and would never let another person take over the task
+
+misanthrope:  a hater of mankind
+Ex:  kevin is such a misanthrope that he refused to attend the christmas party, claiming that everyone's happiness was "fake" and "annoying."
+
+misconstrue:  interpret in the wrong way
+Ex:  the politician never trusted journalists because he thought that they would misconstrue his words and misrepresent his positions
+
+miscreant:  a person who breaks the law
+Ex:  "come back you miscreant!" yelled the woman who just had her purse stolen.
+
+miser:  a person who doesn't like to spend money (because they are greedy)
+Ex:  monte was no miser, but was simply frugal, wisely spending the little that he earned.
+
+misogynist:  a person who dislikes women in particular
+Ex:  many have accused hemingway of being a quiet misogynist, but recently unearthed letters argue against this belief
+
+mitigate:  1. (verb) make less severe or harsh; 
+2. (verb) lessen the severity of an offense
+Ex:  1. i can only spend so much time mitigating your disagreements with your wife, and at certain point, you need to do it on your own; 
+2. if it weren't for the mitigating circumstances, he would have certainly lost his job
+
+mollify:  to make someone angry less angry; placate
+Ex:  in the morning, janine was unable to mollify harry, if he happened to become angry, unless he'd had his cup of coffee
+
+moment:  significant and important value
+Ex:  despite the initial hullabaloo, the play was of no great moment in hampton’s writing career, and within a few years the public quickly forgot his foray into theater arts
+
+moot:  open to argument or debate; undecidable in a meaningless or irrelevant way
+Ex:  since the board just terminated steve as the ceo, what the finance committee might have thought of his proposed marketing plan for next year is now a moot point.
+
+morose:  ill-tempered and not inclined to talk; gloomy
+Ex:  after stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely
+
+morph:  to undergo dramatic change in a seamless and barely noticeable fashion
+Ex:  the earnestness of the daytime talk shows of the 1970's has morphed into something far more sensational and vulgar: today guests actually stand up and threaten to take swings at one another.
+
+mundane:  1. (adj) repetitive and boring; not spiritual; 
+2. (adj) relating to the ordinary world
+Ex:  1. nancy found doing dishes a thorougly mundane task, although peter found a kind of zen pleasure in the chore; 
+2. though we think of the pope as someone always dealing in holy matters, he is also concerned with mundane events, such as deciding when to set his alarm each morning
+
+munificent:  very generous
+Ex:  uncle charley was known for his munificence, giving all seven of his nephews lavish christmas presents each year
+
+muted:  softened, subdued
+Ex:  helen preferred muted earth colors, such as green and brown, to the bright pinks and red her sister liked
+
+myopic:  lacking foresight or imagination
+Ex:  the company ultimately went out of business because the myopic managers couldn't predict the changes in their industry
+
+myriad:  a large indefinite number
+Ex:  there are a myriad of internet sites hawking pills that claim to boost energy for hours on end
+
+negligible:  so small as to be meaningless; insignificant
+Ex:  the gre tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a negligible impact on your score
+
+nonplussed:  unsure how to act or respond
+Ex:  shirley was totally nonplussed when the angry motorist cut her off and then stuck his finger out the window
+
+nuance:  a subtle difference in meaning or opinion or attitude
+Ex:  because of the nuances involved in this case, i hired an outside consultant to advise us and help.
+
+obdurate:  unable to be persuaded or moved emotionally; stubborn; unyielding.
+Ex:  no number of pleas and bribes would get him to change his obdurate attitude
+
+obliging:  showing a cheerful willingness to do favors for others
+Ex:  even after all his success, i found him to be accommodating and obliging, sharing with me his "secret tips" on how to gain wealth and make friends.
+
+obscure:  1. (verb) make unclear; 
+2. (adj) known by only a few
+Ex:  1. on the smith's drive through the grand canyon, mr. smith's big head obscured much of mrs. robinson's view, so that she only saw momentary patches of red rock; 
+2. many of the biggest movie stars were once obscure actors who got only bit roles in long forgotten films
+
+obsequious:  attentive in an ingratiating or servile manner; attempting to win favor from influential people by flattery
+Ex:  the obsequious waiter did not give the couple a moment's peace all through the meal, constantly returning to their table to refill their water glasses and to tell them what a handsome pair they made
+
+obstinate:  stubbornly persistent; stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so
+Ex:  her obstinate determination to work in a radio
+
+opaque:  not clearly understood or expressed
+Ex:  the meaning of the professor's new research was opaque to most people, so no one asked any questions
+
+opulence:  wealth as evidenced by sumptuous living
+Ex:  russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar
+
+ornate:  marked by elaborate rhetoric and elaborated with decorative details
+Ex:  the ornate victorian and edwardian homes spread throughout san francisco are my favorite part of the city
+
+ostentatious:  intended to attract notice and impress others; tawdry or vulgar
+Ex:  matt wanted to buy stone lions for front of the house, but cynthia convinced him that such a display would be too ostentatious for a modest house in an unassuming neighborhood
+
+ostracize:  exclude from a community or group
+Ex:  later in his life, leo tolstoy was ostracized from the russian orthodox church for his writings that contradicted church doctrine
+
+panache:  distinctive and showy elegance
+Ex:  jim, with his typical panache, came to the wedding reception with a top hat and cane.
+
+paradoxical:  seemingly contradictory but nonetheless possibly true
+Ex:  that light could be both a particle and a wave seems paradoxical, but nonetheless, it is true
+
+parochial:  narrowly restricted in scope or outlook
+Ex:  jasmine was sad to admit it, but her fledgling relationship with jacob did not work out because his culinary tastes were simply too parochial; "after all," she quipped on her blog, "he considered chef boyardee ethnic food."
+
+parsimonious:  extremely frugal; miserly
+Ex:  katie is so parsimonious that she only buys a pair of socks if all of her other socks have holes in them
+
+pastoral:  relating to the countryside in a pleasant sense
+Ex:  those who imagine america's countryside as a pastoral region are often disappointed to learn that much of rural u.s. is filled with cornfields extending as far as the eye can see.
+
+patronize:  treat condescendingly
+Ex:  she says she genuinely wanted to help me, but instead she patronized me, constantly pointing out how i was inferior to her
+
+paucity:  a lack of something
+Ex:  there is a paucity of jobs hiring today that require menial skills, since most such jobs have either been automated or outsourced.
+
+pedantic:  marked by a narrow focus on or display of learning especially its trivial aspects
+Ex:  professor thompson was regarded as an expert in his field, but his lectures were utterly pedantic, focused on rigorous details of the most trivial conventions in the field
+
+pedestrian:  lacking imagination
+Ex:  while nan was always engaged in philosophical speculation, her brother was occupied with far more pedestrian concerns: how to earn a salary and run a household
+
+peevish:  easily irritated or annoyed
+Ex:  our office manager is peevish, so the rest of us tip-toe around him, hoping not to set off another one of his fits
+
+pejorative:  expressing disapproval (usu. refers to a term)
+Ex:  most psychologists object to the pejorative term "shrink", believing that they expand the human mind, not limit it
+
+perennial:  lasting an indefinitely long time; eternal; everlasting
+Ex:  even at the old-timers games, stan musial would get the loudest cheer: he was a perennial favorite of the fans there
+
+perfidy:  an act of deliberate betrayal; a breach of a trust
+Ex:  sure, he was the best salesman in the company; but michael had abused the trust of the firm, sharing product secrets with a competitor, and for such perfidy he was terminated
+
+pernicious:  exceedingly harmful; working or spreading in a hidden and injurious way
+Ex:  the most successful viruses are pernicious: an infected person may feel perfectly healthy for several months while incubating and spreading the virus.
+
+perpetuate:  cause to continue
+Ex:  if you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future
+
+perquisite:  a right reserved exclusively by a particular group or person (esp a hereditary or official right)
+Ex:  even as the dishwasher at the french restaurant, josh quickly learned that he had the perquisite of being able to eat terrific food for half the price diners would pay
+
+pertinent:  having precise or logical relevance to the matter at hand
+Ex:  while the salaries of the players might draw attention in the media, such monetary figures are not pertinent to the question of who plays the best on the field
+
+perturb:  disturb in mind or cause to be worried or alarmed
+Ex:  he no longer lets the little trivialities perturb him
+
+peruse:  to read very carefully
+Ex:  instead of perusing important documents, people all too often rush to the bottom of the page and plaster their signatures at the bottom
+
+petulant:  easily irritated or annoyed
+Ex:  although the three year old was often described as mature for his age, he was petulant and whiny whenever his father forgot to remove the crust from his sandwiches
+
+pine:  to yearn for
+Ex:  standing forlornly by the window, she pined for her lost love
+
+pinnacle:  the highest point
+Ex:  he had reached the pinnacle of his career
+
+piquant:  having a pleasantly pungent taste or appetising flavour
+Ex:  the chef, with a mere flick of the salt shaker, turned the bland tomato soup into a piquant meal.
+
+pithy:  concise and full of meaning
+Ex:  i enjoy reading the daodejing for its pithy and insightful prose; it always gives me something to think about.
+
+pittance:  a small amount (of money)
+Ex:  vinny’s uncle beamed smugly about how he’d offered his nephew fifty dollars for his harvard tuition; even twice the amount would have been a mere pittance
+
+placate:  cause to be more favorably inclined; gain the good will of
+Ex:  i was able to placate the angry mob of students by promising to bring cookies on monday
+
+placid:  not easily irritated
+Ex:  doug is normally placid, so we were all shocked to see him yelling at the television when the mets lost the game.
+
+platitude:  a trite or obvious remark
+Ex:  the professor argued that many statements regarded as wise in previous times, such as the golden rule, are now regarded as mere platitudes
+
+plodding:  (of movement) slow and laborious
+Ex:  charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch
+
+ploy:  a clever plan to turn a situation  to one's advantage
+Ex:  dennis arranged an elaborate ploy, involving 14 different people lying for him in different situations, so that it could appear that he was meeting mary completely by chance at the wedding reception.
+
+poignant:  emotionally touching
+Ex:  after the montagues and capulets discover the dead bodies of romeo and juliet, in the play's most poignant moment, the two griefstricken families agree to end their feud once and for all
+
+polemic:  a strong verbal or written attack on someone or something
+Ex:  the professor launched into a polemic, claiming that freudian theory was a pack of lies that absolutely destroyed european literary theory
+
+posit:  assume as fact
+Ex:  initially, einstein posited a repulsive force to balance gravity, but then rejected that idea as a blunder.
+
+pragmatic:  guided by practical experience and observation rather than theory
+Ex:  rather than make a philosophical appeal to the congressmen, the speaker decided to take a far more pragmatic approach, making small side-deals that would add votes to his bill.
+
+precarious:  fraught with danger
+Ex:  people smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more precarious than either mountain-climbing or skydiving
+
+precedent:  an example that is used to justify similar occurrences at a later time
+Ex:  the principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a precedent for what could be worn at school dances.
+
+precipitous:  done with very great haste and without due deliberation
+Ex:  instead of calling his financial advisor, harold acted precipitously, buying 4,000 shares of the latest "hot" stock, only to find out that the company had a history of inflating its year end numbers
+
+preclude:  keep from happening or arising; make impossible
+Ex:  the manager specified that all other gates be locked, to preclude the possibility of persons without tickets entering the arena undetected
+
+precocious:  characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)
+Ex:  though only seven years old, she was a precocious chess prodigy, able to beat players twice her age.
+
+predilection:  a strong liking
+Ex:  monte had a predilection for the fine things in life: cuban cigars, 
+200 dollar bottles of wine, and trips to the french riviera.
+
+preempt:  take the place of or have precedence over
+Ex:  a governmental warning about an imminent terrorist attack would preempt ordinary network programming on television
+
+preemptive:  done before someone else can do it
+Ex:  just as martha was about to take the only cookie left on the table, noah preemptively swiped it
+
+prescience:  the power to foresee the future
+Ex:  baxter's warnings about investing in technology stocks seemed like an act of prescience after the whole market declined significantly
+
+presumption:  1. an assumption that is taken for granted; 
 2. audacious (even arrogant) behavior that you have no right to;
-Ex:
-1. when mr. baker found out the family car was gone, he acted under the presumption that his rebellious son had taken the car, calling his son's phone and yelling at him; only later did mr. baker realize that mrs. baker had simply gone out to get her nails done.; 
+Ex:  1. when mr. baker found out the family car was gone, he acted under the presumption that his rebellious son had taken the car, calling his son's phone and yelling at him; only later did mr. baker realize that mrs. baker had simply gone out to get her nails done.; 
 2. the new neighbor quickly gained a reputation for her presumption; she had invited herself to several neighbors' homes, often stopping over at inopportune times and asking for a drink.
 
-presumptuous:
-excessively forward; (of a person or their behaviour) failing to observe the limits of what is permitted or appropriate
-Ex:
-many felt that barney was presumptuous in moving into the large office before the management even made any official announcement of his promotion
+presumptuous:  excessively forward; (of a person or their behaviour) failing to observe the limits of what is permitted or appropriate
+Ex:  many felt that barney was presumptuous in moving into the large office before the management even made any official announcement of his promotion
 
-prevail:
-1. be widespread in a particular are at a particular time; be current; 
+prevail:  1. be widespread in a particular are at a particular time; be current; 
 2. prove superior
-Ex:
-1. during the labor negotiations, an air of hostility prevailed in the office; 
+Ex:  1. during the labor negotiations, an air of hostility prevailed in the office; 
 2. before the cricket match, australia was heavily favored, but india prevailed;
 
-profusion:
-the property of being extremely abundant
-Ex:
-when maria reported that she had been visited by jesus christ and had proof, a profusion of reporters and journalists descended on the town
+prevaricate:  to speak in an evasive way
+Ex:  the cynic quipped, “there is not much variance in politicians; they all seem to prevaricate”
 
-provisional:
-under terms not final or fully worked out or agreed upon
-Ex:
-until the corporate office hands down a definitive decision on use of the extra offices, we will share their use in a provisional arrangement
+pristine:  1. (adj) unspoiled, untouched (usu. of nature) 
+2. (adj) immaculately clean and unused
+Ex:  1. the glacial lake was pristine and we filled our canteens to drink deeply.; 
+2. drill sergeants are known for demanding pristine cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards.
 
-qualm:
-uneasiness about the fitness of the action
-Ex:
-while he could articulate no clear reason why harkner's plan would fail, he nevertheless felt qualms about committing any resources to it
+prodigal:  rashly or wastefully extravagant
+Ex:  successful professional athletes who do not fall prey to prodigality seem to be the exception—most live decadent lives
 
-quip:
-1.(verb) to make a witty remark; 
+prodigious:  so great in size or force or extent as to elicit awe
+Ex:  after the relatively small homerun totals in the "dead ball" era, babe ruth's homerun totals were truly prodigious: every year, he set a new all-time record
+
+profligate:  1. (adj) spending resources recklessly or wastefully; 
+2. (noun) someone who spends resources recklessly or wastefully
+Ex:  1. the composer wagner, while living on a limited salary, was so profligate as to line all the walls of his apartment with pure silk; 
+2. most lottery winners go from being conservative, frugal types to outright profligates who blow millions on fast cars, lavish homes, and giant yachts
+
+profuse:  plentiful; pouring out in abundance
+Ex:  during mile 
+20 of the hawaii marathon, dwayne was sweating so profusely that he stopped to take off his shirt, and ran the remaining six miles wearing nothing more than skimpy shorts.
+
+profusion:  the property of being extremely abundant
+Ex:  when maria reported that she had been visited by jesus christ and had proof, a profusion of reporters and journalists descended on the town
+
+prolific:  intellectually productive
+Ex:  schubert was the most prolific composer, producing hundreds of hours of music before he died at the age of 31
+
+propitious:  presenting favorable circumstances; likely to result in or show signs of success
+Ex:  the child's heartbeat is still weak, but i am seeing many propitious signs and i think that she may be healing
+
+proponent:  a person who pleads for a cause or propounds an idea
+Ex:  ironically, the leading proponent of flat-earth theory flies all over the world in an effort to win more adherents.
+
+provincial:  characteristic of a limited perspective; not fashionable or sophisticated
+Ex:  maggie's enthusiasm about her high school teams seemed provincial to her college classmates, all of whom were following a nationally ranked college team
+
+provisional:  under terms not final or fully worked out or agreed upon
+Ex:  until the corporate office hands down a definitive decision on use of the extra offices, we will share their use in a provisional arrangement
+
+pugnacious:  eager to fight or argue; verbally combative
+Ex:  the comedian told one flat joke after another, and when the audience started booing, he pugnaciously spat back at them, “hey, you think this is easy – why don’t you buffoons give it a shot?”
+
+pundit:  someone who has been admitted to membership in a scholarly field
+Ex:  steven pinker's credentials are unquestioned as a pundit; he has taught at mit and stanford, teaches at harvard, and has published a number of influential books on cognition, language, and psychology
+
+qualify:  to make less severe; to limit (a statement)
+Ex:  chris qualified his love for san francisco, adding he didn't like the weather there as much as he liked the weather in los angeles.
+
+qualm:  uneasiness about the fitness of the action
+Ex:  while he could articulate no clear reason why harkner's plan would fail, he nevertheless felt qualms about committing any resources to it
+
+quandary:  state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options
+Ex:  steve certainly is in a quandary: if he doesn't call elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job
+
+querulous:  habitually complaining
+Ex:  the querulous old woman was beginning to wear down even the happier members of the staff with her ceaseless complaining
+
+quip:  1.(verb) to make a witty remark; 
 2.(noun) a witty saying
-Ex:
-"flattery will get you nowhere" she quipped
+Ex:  "flattery will get you nowhere" she quipped
 
-rakish:
-marked by carefree unconventionality or disreputableness
-Ex:
-as soon as he arrived in the city, the rakish young man bought some drugs and headed straight for the seedy parts of town
+quotidian:  found in the ordinary course of events
+Ex:  phil gets so involved thinking about aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly.
 
-rash:
-marked by defiant disregard for danger or consequences; imprudently incurring risk
-Ex:
-susan criticized his actions as rash
+raffish:  marked by a carefree unconventionality or disreputableness
+Ex:  the men found him raffish, but the women adored his smart clothes and casual attitude
 
-redress:
-an act of making something right
-Ex:
-barry's redress for forgetting his wife's birthday two years in a row was surprising her with a trip to tahiti
+raft:  a large number of something
+Ex:  despite a raft of city ordinances passed by an overzealous council, noise pollution continued unabated in the megalopolis.
 
-relegate:
-assign a lower position to
-Ex:
-they aim to prevent women from being relegated to a secondary role
+rakish:  marked by carefree unconventionality or disreputableness
+Ex:  as soon as he arrived in the city, the rakish young man bought some drugs and headed straight for the seedy parts of town
 
-reservation:
-an unstated doubt that prevents you from accepting something wholeheartedly
-Ex:
-i was initially excited by the idea of a trip to washington, d.c. but now that i have read about the high crime statistics there, i have some reservations.
+rankle:  gnaw into; make resentful or angry
+Ex:  his constant whistling would rankle her, sometimes causing her to leave in a huff
 
-resignation:
-the acceptance of something unpleasant which cant be avoided
-Ex:
-since jack could not think of a convincing reason why he had to miss the seminar, he attended it with a sense of resignation
+rash:  marked by defiant disregard for danger or consequences; imprudently incurring risk
+Ex:  susan criticized his actions as rash
 
-retract:
-(verb) pull inwards towards the center; formally reject or disavow a previously held belief, usually under pressure
-Ex:
-there is no way to retract an email once sent
+ravenous:  extremely hungry; devouring or craving food in great quantities
+Ex:  john didn't eat much at all during the week he had the flu, so now that he is regaining his health, it's not surprising that he has a ravenous appetite
 
-rile:
-cause annoyance in; disturb esp by minor irritations
-Ex:
-dan is usually calm and balanced, but it takes only one intense glare from sabrina to rile him
+rebuke:  criticize severely or angrily; censure
+Ex:  the police chief rebuked the two officers whose irresponsible decisions almost led to the deaths of seven innocent by-standers
 
-savvy:
-1. (noun) a perceptive understanding;
+reconcile:  make (one thing) compatible with (another)
+Ex:  peggy was unable to reconcile her kind friend jane with the cruel and merciless character jane played on television.
+
+recondite:  difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge
+Ex:  i found ulysses recondite and never finished the book, waiting instead to read it with someone else so we could penetrate its meaning together
+
+redress:  an act of making something right
+Ex:  barry's redress for forgetting his wife's birthday two years in a row was surprising her with a trip to tahiti
+
+refractory:  stubbornly resistant to authority or control
+Ex:  used to studious high school students, martha was unprepared for the refractory kindergarteners who neither sat still nor listened to a single word she said.
+
+refute:  prove to be false or incorrect
+Ex:  no one could refute his theories or propositions, and that is why he was esteemed by all his colleagues in the philosophy department.
+
+relegate:  assign a lower position to
+Ex:  they aim to prevent women from being relegated to a secondary role
+
+remiss:  to be negligent in one’s duty
+Ex:  remiss in his duty to keep the school functioning efficiently, the principal was relieved of his position after only three months.
+
+renege:  fail to fulfill a promise or obligation
+Ex:  we will no longer work with that vendor since it has reneged on nearly every agreement.
+
+replete:  completely stocked or furnished with something
+Ex:  only weeks after the hurricane made landfall, the local supermarket shelves were replete with goods, so quick was the disaster relief response
+
+reproach:  to express criticism towards
+Ex:  at first, sarah was going to yell at the boy, but she didn't want to reproach him for telling the truth about the situation
+
+reprobate:  a person without morals who is disapproved of
+Ex:  mr. smith’s two boys couldn’t be more different; one was a hard-working and principled, the other was the town reprobate, always having run-ins with the law
+
+repudiate:  reject as untrue or unfounded
+Ex:  many in the public believed the rumors of a ufo crash outside town, so the chief of police did everything he could to repudiate the rumors
+
+rescind:  cancel officially
+Ex:  the man's driver's license was rescinded after his tenth car accident, which meant he would never be allowed to legally drive again
+
+reservation:  an unstated doubt that prevents you from accepting something wholeheartedly
+Ex:  i was initially excited by the idea of a trip to washington, d.c. but now that i have read about the high crime statistics there, i have some reservations.
+
+resignation:  the acceptance of something unpleasant which cant be avoided
+Ex:  since jack could not think of a convincing reason why he had to miss the seminar, he attended it with a sense of resignation
+
+resolve:  reach a conclusion after a discussion or deliberation
+Ex:  after much thought, ted resolved not to travel abroad this summer because he didn't have much money in his bank account.
+
+respite:  a pause from doing something (as work)
+Ex:  every afternoon, the small company has a respite in which workers play foosball or board games.
+
+restive:  restless
+Ex:  the crowd grew restive as the comedian’s opening jokes fell flat.
+
+resurgent:  rising again as to new life and vigor
+Ex:  the team sank to fourth place in june, but is now resurgent and about to win the division
+
+reticent:  disinclined to talk, not revealing one's thoughts
+Ex:  when asked about her father, helen lost her outward enthusiasm and became rather reticent
+
+retiring:  to be shy, and to be inclined to retract from company
+Ex:  nelson was always the first to leave soirees—rather than mill about with “fashionable” folk, he was retiring, and preferred the solitude of his garret.
+
+retract:  (verb) pull inwards towards the center; formally reject or disavow a previously held belief, usually under pressure
+Ex:  there is no way to retract an email once sent
+
+reverent:  feeling or showing profound respect or veneration
+Ex:  the professor could speak objectively about the other composers, but he always lectured about brahms with a particularly reverent air, unable to offer a single criticism of his compositions
+
+rile:  cause annoyance in; disturb esp by minor irritations
+Ex:  dan is usually calm and balanced, but it takes only one intense glare from sabrina to rile him
+
+robust:  sturdy and strong in form, constitution, or construction
+Ex:  chris preferred bland and mild beers, but bhavin preferred a beer with more robust flavor.
+
+rudimentary:  being in the earliest stages of development; being or involving basic facts or principles
+Ex:  i would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most rudimentary stages.
+
+rustic:  characteristic of rural life; awkwardly simple and provincial
+Ex:  the vacation cabin had no electricity and no indoor plumbing, but despite these inconveniences, nigel adored its rustic charm
+
+sanctimonious:  making a show of being pious; holier-than-thou
+Ex:  even during the quiet sanctity of evening prayer, she held her chin high, a sanctimonious sneer forming on her face as she eyed those who were attending church for the first time
+
+sanction:  1. give authority or permission to; 
+2. a legal penalty for a forbidden action
+Ex:  ......................
+
+sanguine:  cheerful; optimistic
+Ex:  with the prospect of having to learn 3,000 words during the course of the summer, paul was anything but sanguine
+
+savvy:  1. (noun) a perceptive understanding;
 2. (verb) get meaning of something;3. well-informed or perceptive
-Ex:
-1. he did not have the political savvy to win the election; 
+Ex:  1. he did not have the political savvy to win the election; 
 2. the student savvies the meaning of astrophysics with little effort
 
-smug:
-marked by excessive complacency or self-satisfaction
-Ex:
-when phil was dating the model, he had a smug attitude that annoyed his friends
+scintillating:  describes someone who is brilliant and lively
+Ex:  richard feynman was renowned for his scintillating lectures—the arcana of quantum physics was made lucid as he wrote animatedly on the chalkboard
 
-snub:
-refuse to acknowledge; reject outright and bluntly
-Ex:
-wheeler was completely qualified for the committee, but the board snubbed him, choosing an obviously lesser qualified candidate instead.
+screed:  an abusive rant (often tedious)
+Ex:  joey had difficulty hanging out with his former best friend perry, who, during his entire cup of coffee, enumerated all of the government’s deficiencies--only to break ranks and launch into some screed against big business.
 
-sordid:
-involving ignoble actions or motives; arousing moral distaste or contempt; foul and run down and repulsive
-Ex:
-the nightly news simply announced that the senator had had an affair, but the tabloid published all the sordid details of the interaction.
+scrupulous:  1. (adj) characterized by extreme care and great effort 
+2. (adj) having a sense of right and wrong; principled
+Ex:  1. because of his scrupulous nature, mary put him in charge of numbering and cataloging the entire collection of rare stamps; 
+2. everyone trusted what he said and followed his example because he was scrupulous and honest
 
-squander:
-spend thoughtlessly; waste time money or an oppurtunity
-Ex:
-fearing that his money would be squandered by his family, he gave all of it to charity when he died
+sentimental:  effusively or insincerely emotional, especially in art, music, and literature
+Ex:  i don't like romanticism for the same reason i don't like melodramatic acting and soap operas—overly sentimental.
 
-staid:
-characterized by dignity and propriety
-Ex:
-frank came from a staid environment, so he was shocked that his college roommate sold narcotics
+serendipity:  the instance in which an accidental, fortunate discovery is made
+Ex:  by pure serendipity, sarah discovered, at a flea market in peoria, a matching earring to replace the one that fell down the storm drain back home.
 
-steadfast:
-marked by firm determination or resolution; not shakeable
-Ex:
-a good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm
+slapdash:  carelessly and hastily put together
+Ex:  the office building had been constructed in a slapdash manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the façade of the building.
 
-stymie:
-hinder or prevent the progress or accomplishment of
-Ex:
-the engineers found their plans stymied at every turn and were ultimately able to make almost no progress on the project
+smattering:  a slight or superficial understanding of a subject; a small amount of something
+Ex:  i know only a smattering of german, but helen is able to read german newspapers and converse with natives
 
-tact:
-consideration in dealing with others and avoid giving offense
-Ex:
-in a tremendous display of tact, shelly was able to maintain a strong friendship with marcia, even though marcia's husband, frank, confessed to finding shelley more attractive than marcia
+smug:  marked by excessive complacency or self-satisfaction
+Ex:  when phil was dating the model, he had a smug attitude that annoyed his friends
 
-tarnish:
-make dirty or spotty as exposure to air; also used metaphorically
-Ex:
-pete rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many
+snide:  expressive of contempt; derogatory or mocking in an indirect way
+Ex:  the chairman interpreted taylor's question about promotions as a snide remark, but in all innocence taylor was trying to figure out the company's process.
 
-taxing:
-used to limit; exhaust
-Ex:
-the hike to the summit of mt. whitney was so taxing that i could barely speak or stand up
+snub:  refuse to acknowledge; reject outright and bluntly
+Ex:  wheeler was completely qualified for the committee, but the board snubbed him, choosing an obviously lesser qualified candidate instead.
 
-tout:
-advertise in strongly positive terms; show off
-Ex:
-at the conference, the ceo touted the extraordinary success of his company's research & development division.
+soporific:  inducing mental lethargy; sleep inducing
+Ex:  although the professor is brilliant, his bland monotone gives his lectures a soporific effect.
 
-travail:
-painful and laborious effort; hard work
-Ex:
-while they experienced nothing but travails in refinishing the kitchen, they completed the master bedroom in less than a weekend
+sordid:  involving ignoble actions or motives; arousing moral distaste or contempt; foul and run down and repulsive
+Ex:  the nightly news simply announced that the senator had had an affair, but the tabloid published all the sordid details of the interaction.
 
-tribulation:
-something esp. an event that causes difficulty and suffering
-Ex:
-as of 
+specious:  1. (adj) based on pretense; deceptively pleasing; 
+2. (adj) plausible but false
+Ex:  1. almost every image on tv is specious and not to be trusted; 
+2. he made a career out of specious arguments and fictional lab results, but lost his job and reputation when his lies were exposed by an article in the new york times
+
+spendthrift:  one who spends money extravagantly
+Ex:  taking weekly trips to vegas, megan was a spendthrift whose excesses eventually caught up to her
+
+sporadic:  recurring in scattered and irregular or unpredictable instances
+Ex:  the signals were at first sporadic, but now we detect a clear, consistent pattern of electromagnetic radiation emanating from deep space
+
+spurious:  plausible but false
+Ex:  when listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones.
+
+spurn:  reject with contempt
+Ex:  she spurned all his flattery and proposals, and so he walked off embarrassed and sad
+
+squander:  spend thoughtlessly; waste time money or an oppurtunity
+Ex:  fearing that his money would be squandered by his family, he gave all of it to charity when he died
+
+staid:  characterized by dignity and propriety
+Ex:  frank came from a staid environment, so he was shocked that his college roommate sold narcotics
+
+start:  to suddenly move in a particular direction
+Ex:  all alone in the mansion, henrietta started when she heard a sound
+
+staunch:  firm and dependable especially in loyalty
+Ex:  no longer a staunch supporter of the movement, todd now will openly question whether its goals are worthwhile
+
+steadfast:  marked by firm determination or resolution; not shakeable
+Ex:  a good captain needs to be steadfast, continuing to hold the wheel and stay the course even during the most violent storm
+
+stem:  to hold back or limit the flow or growth of something
+Ex:  to stem the tide of applications, the prestigious ivy requires that each applicant score at least 330 on the revised gre.
+
+stipend:  a regular allowance (of money)
+Ex:  he was hoping for a monthly allowance loan from the government, but after no such stipend was forthcoming he realized he would have to seek other means of paying for his college tuition)
+
+stolid:  having or revealing little emotion or sensibility; not easily aroused or excited
+Ex:  elephants may appear stolid to casual observers, but they actually have passionate emotional lives
+
+stringent:  demanding strict attention to rules and procedures
+Ex:  most of the students disliked the teacher because of his stringent homework policy, but many students would later thank him for demanding so much from them
+
+stymie:  hinder or prevent the progress or accomplishment of
+Ex:  the engineers found their plans stymied at every turn and were ultimately able to make almost no progress on the project
+
+subsume:  1. (verb) contain or include; 
+2. (verb) consider (an instance of something) as part of a general rule or principle;
+Ex:  1. the rogue wave quickly subsumed the pier and boardwalk, destroying everything in its path; 
+2. don quixote of la mancha subsumes all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative
+
+subversive:  in opposition to an established system or institution
+Ex:  the ruling political party has begun a campaign to shut down subversive websites that it deems as a threat to "national safety
+
+sullen:  showing a brooding ill humor
+Ex:  herbert took board games too seriously, often appearing sullen after losing
+
+summit:  1. (noun) the peak or highest point 
+2. (noun) a meeting of high-level leaders
+Ex:  1. after hiking for seven days, the climbers finally reached the summit of mount kilimanjaro; 
+2. since climate change policy has been mired in congressional fighting, this summit should help set the goals for president's next term
+
+superfluous:  1. (adj) serving no useful purpose; 
+2. (adj) more than is needed, desired, or required
+Ex:  1. how can we hope to stay open if we don't eliminate all superfluous spending, like catered meetings and free acupuncture tuesday?; 
+2. the third paragraph in your essay is superfluous and can be deleted
+
+supplant:  take the place or move into the position of
+Ex:  for many, a cell phone has supplanted a traditional phone; in fact, most 
+20-somethings don't even have a traditional phone anymore.
+
+surly:  inclined to anger or bad feelings with overtones of menace
+Ex:  every morning, bhavin was a surly, unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around
+
+sycophant:  a person who tries to please someone in order to gain a personal advantage
+Ex:  the ceo was unaware of the damaging consequences of his choices, largely because he surrounded himself with sycophants who would never dare criticize him
+
+taciturn:  habitually reserved and uncommunicative
+Ex:  while the ceo enthusiastically shares his plans and agenda with all who will listen, the cfo is far more taciturn, rarely revealing his perspective
+
+tact:  consideration in dealing with others and avoid giving offense
+Ex:  in a tremendous display of tact, shelly was able to maintain a strong friendship with marcia, even though marcia's husband, frank, confessed to finding shelley more attractive than marcia
+
+tantamount:  being essentially equal to something
+Ex:  in many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence
+
+tarnish:  make dirty or spotty as exposure to air; also used metaphorically
+Ex:  pete rose was one of the best baseball players of his generation, but his involvement with gambling on baseball games has tarnished his image in the eyes of many
+
+tawdry:  tastelessly showy; cheap and shoddy
+Ex:  carol expected to find new york city magical, the way so many movies had portrayed it, but she was surprised how often tawdry displays took the place of genuine elegance.
+
+taxing:  used to limit; exhaust
+Ex:  the hike to the summit of mt. whitney was so taxing that i could barely speak or stand up
+
+telling:  significant and revealing of another factor
+Ex:  her unbecoming dress was very telling when it came to her sense of fashion
+
+telltale:  revealing
+Ex:  the many telltale signs of chronic smoking include yellow teeth, and a persistent, hacking cough
+
+temperance:  the trait of avoiding excesses
+Ex:  welles wasn't known for his temperance--he usually ate enough for two and drank enough for three
+
+tempered:  moderated in effect
+Ex:  the wide-eyed optimism of her youth was now tempered after she had worked many years in the criminal justice system
+
+tenacious:  stubbornly unyielding
+Ex:  even the most tenacious advocates for gun ownership must admit some of the dangers that firearms present
+
+tender:  offer up something formally
+Ex:  the government was loath to tender more money in the fear that it might set off inflation
+
+thoroughgoing:  very thorough; complete
+Ex:  as a thoroughgoing bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a kindle
+
+thrifty:  spending money wisely
+Ex:  he was economical, spending his money thriftily and on items considered essential
+
+thwart:  hinder or prevent (the efforts, plans, or desires) of
+Ex:  i wanted to spend a week in new york this autumn, but the high costs of travel and lodging thwarted my plans
+
+timorous:  timid by nature or revealing fear and nervousness
+Ex:  since this was her first time debating on stage and before an audience, di's voice was timorous and quiet for the first 10 minutes
+
+tirade:  an angry speech
+Ex:  in terms of political change, a tirade oftentimes does little more than make the person speaking red in the face
+
+torpor:  inactivity resulting from lethargy and lack of vigor or energy
+Ex:  after work, i was expecting my colleagues to be enthusiastic about the outing, but i found them in a state of complete torpor
+
+tortuous:  marked by repeated turns and bends; not straightforward
+Ex:  because the logic behind mcmahon's side of the debate was so tortuous, his audience came out either completely confused
+
+tout:  advertise in strongly positive terms; show off
+Ex:  at the conference, the ceo touted the extraordinary success of his company's research & development division.
+
+tractable:  readily reacting to suggestions and influences; easily managed (controlled or taught or molded)
+Ex:  compared to middle school students, who have an untamed wildness about them, high school students are somewhat more tractable.
+
+transient:  lasting a very short time
+Ex:  the unpredictable and transient nature of deja vu makes it a very difficult phenomenon to study properly
+
+transitory:  lasting a very short time
+Ex:  if we lived forever and life was not transitory, do you think we would appreciate life less or more?
+
+travail:  painful and laborious effort; hard work
+Ex:  while they experienced nothing but travails in refinishing the kitchen, they completed the master bedroom in less than a weekend
+
+travesty:  an absurd presentation of something; a mockery
+Ex:  what i expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form.
+
+treacherous:  1. (adj) tending to betray; 
+2. (adj) dangerously unstable and unpredictable
+Ex:  1. even though jesse james was an outlaw, his killer, robert ford, is remembered more for his treacherous actions than for eliminating a criminal and murderer.; 
+2. the bridge built from twine and vine is treacherous to walk across, and so i think i will stay put right here.
+
+tribulation:  something esp. an event that causes difficulty and suffering
+Ex:  as of 
 2013, nearly 1.5 million syrians have fled their country hoping to escape the tribulations of a civil war tearing their country to pieces
 
-uncanny:
-strange or mysterious esp. in unsettling way; suggesting the operation of supernatural influences; surpassing the ordinary or normal
-Ex:
-reggie has an uncanny ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger.
+trite:  repeated too often; overfamiliar through overuse
+Ex:  many style guides recommend not using idioms in writing because these trite expressions are uninteresting and show a lack of imagination on the part of the writer
 
-unprecedented:
-have never been done or known before; novel
-Ex:
-when america first created its national parks, the idea of setting aside the most beautiful land in a country was unprecedented in the history of mankind
+truncate:  reduce the length of something
+Ex:  the soccer game was truncated when the monsoon rain began to fall
 
-unseemly:
-not keeping with what is accepted or proper in a polite society; indecorous
-Ex:
-he acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband.
+tumult:  a state of chaos, noise and confusion
+Ex:  riots broke out just in front of our apartment building, and the tumult continued late into the night
 
-vanquish:
-come out better in a race, competition or conflict
-Ex:
-for years, argentina would dominate in world cup qualifying matches, only to be vanquished by one of the european countries during the late stages of the tournament.
+uncanny:  strange or mysterious esp. in unsettling way; suggesting the operation of supernatural influences; surpassing the ordinary or normal
+Ex:  reggie has an uncanny ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger.
 
-veneer:
-covering consisting of a thin superficial layer that hides the underlying substance
-Ex:
-mark twain referred to the victorian period in america as the "gilded age", implying the ample moral corruption that lay beneath a mere veneer of respectability.
+uncompromising:  not making concessions
+Ex:  the relationship between bart and hilda ultimately failed because they were both so uncompromising, never wanting to change their opinions
 
-vie:
-compete for something
-Ex:
-while the other teams in the division actively vie for the championship, this team seems content simply to go through the motions of playing
+unconscionable:  unreasonable; unscrupulous; excessive
+Ex:  the lawyer’s demands were so unconscionable that rather than pay an exorbitant sum or submit himself to any other inconveniences, the defendant decided to find a new lawyer
 
-wanton:
-without check or limitations; showing no moral restraints to one's anger, desire, appetites
-Ex:
-due to wanton behavior and crude language, the drunk man was thrown out of the bar and asked to never return.
+undermine:  to weaken (usually paired with an abstract term)
+Ex:  the student undermined the teacher’s authority by questioning the teacher’s judgment on numerous occasions
+
+underscore:  give extra weight to (a communication)
+Ex:  while the hiking instructor agreed that carrying a first aid kit could be a good idea under certain circumstances, he underscored the importance of carrying enough water
+
+underwrite:  to support financially
+Ex:  the latest symphony broadcast was made possible with underwriting from the carnegie endowment
+
+unequivocal:  admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
+Ex:  the president's first statement on the subject was vague and open to competing interpretations, so when he spoke to congress about the same subject later, he was careful to make his position completely unequivocal.
+
+unnerve:  to make nervous or upset
+Ex:  at one time unnerved by math problems, she began avidly “magoosh-ing”, and soon became adept at even combinations and permutations questions.
+
+unprecedented:  have never been done or known before; novel
+Ex:  when america first created its national parks, the idea of setting aside the most beautiful land in a country was unprecedented in the history of mankind
+
+unruly:  (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority
+Ex:  walk in to any preschool and i am sure that you will find an unruly and chaotic scene—unless it's nap time
+
+unscrupulous:  without scruples or principles
+Ex:  in the courtroom, the lawyer was unscrupulous, using every manner of deceit and manipulation to secure a victory for himself
+
+unseemly:  not keeping with what is accepted or proper in a polite society; indecorous
+Ex:  he acted in an unseemly manner, insulting the hostess and then speaking ill of her deceased husband.
+
+upbraid:  to reproach; to scold
+Ex:  bob took a risk walking into the "students barbershop"—in the end he had to upbraid the apparently drunk barber for giving him an uneven bowl cut
+
+urbane:  showing a high degree of refinement and the assurance that comes from wide social experience
+Ex:  because of his service as an intelligence officer and his refined tastes, w. somerset maugham became the inspiration for the urbane and sophisticate spy james bond.
+
+vacillate:  be undecided about something; waver between conflicting positions or courses of action
+Ex:  some students vacillate between schools when deciding which to attend, while others focus only on one school
+
+vacuous:  devoid of intelligence, matter, or significance
+Ex:  to the journalist's pointed question, the senator gave a vacuous response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question
+
+vanquish:  come out better in a race, competition or conflict
+Ex:  for years, argentina would dominate in world cup qualifying matches, only to be vanquished by one of the european countries during the late stages of the tournament.
+
+variance:  the quality of being different
+Ex:  the cynic quipped, “there is not much variance in politicians; they all seem to lie”
+
+vehement:  marked by extreme intensity of emotions or convictions
+Ex:  while the other employees responded to the bad news in a measured way, andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs.
+
+venality:  the condition of being susceptible to bribes or corruption
+Ex:  even some of the most sacred sporting events are not immune to venality, as many of the officials have received substantial bribes to make biased calls
+
+veneer:  covering consisting of a thin superficial layer that hides the underlying substance
+Ex:  mark twain referred to the victorian period in america as the "gilded age", implying the ample moral corruption that lay beneath a mere veneer of respectability.
+
+venerate:  to respect deeply
+Ex:  the professor, despite his sleep-inducing lectures, was venerated amongst his colleagues, publishing more papers yearly than all of his peers combined
+
+veracious:  truthful
+Ex:  while we elect our leaders in the hope that every word they speak will be veracious, history has shown that such a hope is naive
+
+vicarious:  felt or undergone as if one were taking part in the experience or feelings of another
+Ex:  the advent of twitter is a celebrity stalker's dream, as he or she can—through hundreds of intimate "tweets"—vicariously live the life of a famous person
+
+vie:  compete for something
+Ex:  while the other teams in the division actively vie for the championship, this team seems content simply to go through the motions of playing
+
+vilify:  spread negative information about
+Ex:  todd was noble after the divorce, choosing to say only complimentary things about barbara, but barbara did not hesitate to vilify todd.
+
+vindicate:  to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof
+Ex:  even seven tour de france wins cannot vindicate lance armstrong in the eyes of the public--that the athlete used performance enhancing drugs invalidates all those wins.
+
+vindictive:  to have a very strong desire for revenge
+Ex:  though the other girl had only lightly poked fun of vanessa's choice in attire, vanessa was so vindictive that she waited for an entire semester to get the perfect revenge.
+
+virago:  an ill-tempered or violent woman
+Ex:  poor billy was the victim of the virago’s invective—she railed at him for a good 30-minutes about how he is the scum of the earth for speaking loudly on his cellphone in public
+
+vociferous:  conspicuously and offensively loud; given to vehement outcry
+Ex:  in giving marcia a particular vociferous response, paul caused people at every other table in the restaurant to turn around and look at them angrily
+
+volubility:  the quality of talking or writing easily and continuously
+Ex:  the professor's volubility knows no bounds; he could talk through a hurricane and elaborate a point from one st. patrick's day to the next
+
+voracious:  very hungry; approaching an activity with gusto
+Ex:  steven was a voracious reader, sometimes finishing two novels in the same day.
+
+wanting:  lacking
+Ex:  she did not think her vocabulary was wanting, yet there were so many words that inevitably she found a few she didn't know
+
+wanton:  without check or limitations; showing no moral restraints to one's anger, desire, appetites
+Ex:  due to wanton behavior and crude language, the drunk man was thrown out of the bar and asked to never return.
+
+wax:  to gradually increase in size or intensity
+Ex:  her enthusiasm for the diva’s new album only waxed with each song; by the end of the album, it was her favorite cd yet
+
+whimsical:  determined by impulse or whim rather than by necessity or reason
+Ex:  adults look to kids and envy their whimsical nature at times, wishing that they could act without reason and play without limitation
+
+winsome:  charming in a childlike or naive way
+Ex:  she was winsome by nature, and many people were drawn to this free and playful spirit
+
+zenith:  the highest point; culmination
+Ex:  at the zenith of his artistic career, elvis was outselling any other artist on the charts
 
