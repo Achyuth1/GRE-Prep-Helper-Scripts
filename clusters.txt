@@ -1,0 +1,299 @@
+song memorial to dead: dirge,lament
+
+express strong disapproval : decry,excoriate,condemn,objurgate,reprobate
+
+smoothly wavy: undulating,wavy,ripple
+
+omenous to something bad: baleful,minatory,ominous,sinsiter,
+
+teding to find attention to faults: captious,*carping,quibble,
+
+state of inactivity or disuse: desuetude,
+
+loud and harsh: clamorous,strident,vociferous,blatant,grating,
+
+malleable: plasticity,malleable,
+
+irrelevant: extraneous,immaterial,impertinent,foreign,orthogonal,
+
+speaking one's thoughts aloud to oneself: soliloquy,monologue,
+
+truthfully without a doubt: veritable,unquestionable,
+
+extremely painful: harrowing,excruciating,agonizing,
+
+strong feelings of embarassment: chagrin,humiliate,mortify,
+
+harsh in tone: acerbic,caustic,mordant,virulent,vitriolic,*(asperity,sharphness,)
+
+overabundance: plethora,superfluous,
+
+liable to change unpredictably, especially for the worse: volatile,fickle,labile,
+
+hagiographic,adulatory,
+
+showing or motivated by susceptibility to corruption: venal,venality,graft,
+
+intimidate: browbeat,hector,bully,intimidate,
+
+beggar: mendicant,beggar,*(abject,)
+
+having or displaying a passionate intensity: ardor,fervency,zeal,fervor,
+
+to arrive at a conclusion or judgement: resolve,adjudicate,
+
+a religious dogma proclaimed as true without proof: tenet,dogma,
+
+prevent something from happening: forestall,preclude,prevent,avert,obviate,
+
+ludicrously odd: antic,grotesque,
+
+hold back: encumber,restrain,
+
+playful and lightly teasing conversation: raillery,banter,
+
+express or speak clearly: enunciate,articulate,
+
+formally reject or disavow a formerly held belief: forswear,abjure,recant,recile,retract,
+
+an exemption from a rule or obligation: dispensation,impunity,immunity,
+
+pardonable: venial,*dispensation
+
+impossible to disprove: irrefutable,incontrovertible,
+
+social climber: arriviste,parvenu
+
+an establishment of harmonious relations: rapprochement,reconcilation,
+
+very huge large: behemoth,colossal,giant,
+
+satisfied to the full: satiate,glut,replete,quench,
+
+discipline or scold: objurgate,chasten,castigate,stricture,lambaste,remonstrate,
+
+very bad smell: fetid,maladorous,
+
+trepidation,apprehension,fear,
+
+preternatural,uncanny,transcendental,
+
+insensible,unconscious,senseless,
+
+compunction,remorse,rue,contrition,contrite,
+
+argot,jargon,cant,lingo,slang,patois,
+
+gaffe,solecism,gaucherie,gauche,
+
+salacious,lewd,lustful,raunchy,lascivious,lecherous,
+
+poseur,poser
+
+negate,neutralize,belie,contradict,
+
+motley,pied,sundry,variegate,miscellany,
+
+visage,physiognomy,
+
+epigram,quip,
+
+coquette,flirt,
+
+maelstrom,vortex,whirpool,
+
+vaunt,show off,taut,
+
+prognostication,presage,omen,foretelling,*(premonition,presentiment,forewarning)
+
+stanch,staunch,
+
+unstinting,lavish,munificent,unstinted,overgenerous,
+
+hobble,hinder,fetter,
+
+jocose,jocular,
+
+meretricious,flashy,tawdry,gaudy,cheap,
+
+dissident,dissenter,heretic,deviant,aberrant,unorthodox,heterodox,
+
+dissension,discord,incongruous,*(factious)
+
+ossify,rigidify,petrify,
+
+whimsy,capricious,arbitrary,
+
+servile,fawn,obsequous,toady,sycophant,*(cajole,blandishment,)
+
+apothegm,aphorism,
+
+gouge,swindle,mulct,defraud,scam,*(artifice,ruse,hoodwink,bamboozle,)
+
+chicanery,trick,guile,cozen,cheat,trick,deceive,duplicity,
+
+spartan,ascetic,austere,*(abstemious,temperate,abstentious,abstinent,continence,)
+
+aspersion,calumny,slander,denigration,*(detraction,),
+
+execrable,detestable,abominable,odious,damnable,
+
+apposite,apt,pertinent,apropos,
+
+explicate,explain,elaborate,
+
+dirtiness: squalor,sordid,squalid,
+
+equanimity,sangfroid,aplomb,pollyannaish,fepid*(stalwart,staunch,)
+
+An artful semblance : artful,guise,pretense,semblance,affected,
+
+ribald,bawdy,
+
+eradicate,extirpate,exterminate,
+
+insinuate,intimate,
+
+nettlesome,
+
+rail,inveigh,
+
+lucid,pellucid,limpid,transparent,luculent,
+
+nostrum,panacea
+
+amulet,talisman,
+
+machinate,conspire,machiavellian,
+
+indolent,
+
+congenial,facilitate,
+
+sagacious,perspicacious,shrewd,sapient,
+
+expressing sorrow : doleful,lachrymose,dolorous,plaintive,
+
+partisan,zealot,fervent,
+
+jejune,puerile,
+
+caucus,quorum,
+
+beneficent,benevolent,
+
+accrue,accumulate,
+
+artifice,ruse,hoodwink,
+
+propitiate,placate,appease,
+
+apotheosis,paragon,epitome,exaltation,
+
+patent,apparent,evident,
+
+vapid,insipid,bland,flavourless,
+
+grandiloquent,pompous,portentous,overblown,*(ostentatious,pretentious,)
+
+stubbornly disobedient: contumacious,obstinate,refractory,obstreperous,unruly,
+
+umbrage,pique,*(bristle),
+
+propensity,proclivity,
+
+cataclysm,catastrophe,calamity,
+
+cede,concede,relinquish,surrender,yield,
+
+prate,prattle,gabble,maunder,palaver,cons
+
+dissolute,debauchery,profligate,revelry,
+
+bowdlerize,expurgate,*(censor,)
+
+defer,table,postpone,
+
+contend,assert,
+
+pathos,poignancy,
+
+insouciant,nonchalant,casual,
+
+hallowed,sacred,consecrate,sanctify,
+
+disrepute,disgrace,discredit,
+
+disdainful,imperious,haughty,
+
+curmudgeon,surly,grouchy,
+
+sanguine,pollyannaish
+
+temerity,fearless,intrepid,audacity,
+
+secretive: furtive,surreptitious,clandestine,
+
+interdict,forbid,proscribe,prohibit,
+
+expatiate,expound,elaborate,exposit,lucubrate,
+
+satire,lampoon,burlesque,parody,mockery,travesty,
+
+prehensile,covetous,greedy,avaricious,grabby,cupidity,
+
+encomium,eulogy,paean,panegyric,pean,approbation,
+
+flummox,stupefy,baffle,bewilder,nonplus,perplex,
+
+vitiate,debase,impair,invalidate,spoil,
+
+assuage,quench,allay,soothe,
+
+expatriate,expat,exile,deport,
+
+antediluvian,archaic,ancient,antiquated,
+
+ascribe,attribute,impute,
+
+supersede,supplant,replace,
+
+imperturbable,unflappable,
+
+salutary,salubrious,
+
+beg persistently/harass: importune,*(cadge,)
+
+worthless: vacuous,nugatory,fatuous,inane,mindless,dross,
+
+amoral: machiavellian,unscrupulous,
+
+unused: fallow,desuetude,
+
+irritable: bilious,
+
+wary:waver,wary,chary,waffle,
+
+derelict,remiss,
+
+reprise,recapitulate,
+
+thespian,histrion,
+
+ethnocentric,chauvinism,
+
+consummate,virtuoso,
+
+enamored,besotted,spellbind,
+
+unnerving,redoubtable,formidable,
+
+inviolate,sacrosanct,
+
+parochial,provincial,blinkered,
+
+voracious,ravenous,
+
+hasty,precipitous,whimsy,capricious,
+
+penurious,poor,impecunious,
