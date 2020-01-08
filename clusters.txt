@@ -294,6 +294,6 @@ parochial,provincial,blinkered,
 
 voracious,ravenous,
 
-hasty,precipitous,whimsy,capricious,
+hasty,precipitous,whimsy,capricious,volatile,
 
 penurious,poor,impecunious,
